@@ -1,8 +1,10 @@
+cat > ~/carla-bioinfo/README.md << 'EOF'
 # Hello there! Welcome! 👋
 
 My name is **Carla Rodrigues de Moraes**!
 
-**Clinical Translational Bioinformatics Specialist**
+**Bioinformatics Researcher in Training**  
+Clinical Variant Interpretation | Lynch Syndrome & MMR Genes
 
 ---
 
@@ -24,10 +26,10 @@ My name is **Carla Rodrigues de Moraes**!
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
 
-## 🧬 Other Knowledge:
+## 🧬 Specialization:
 
-![Lynch Syndrome](https://img.shields.io/badge/Lynch%20Syndrome-Specialist-red?style=for-the-badge)
-![MMR Genes](https://img.shields.io/badge/MMR%20Genes-Analysis-orange?style=for-the-badge)
+![Lynch Syndrome](https://img.shields.io/badge/Lynch%20Syndrome-Focus-red?style=for-the-badge)
+![MMR Genes](https://img.shields.io/badge/MMR%20Genes-MLH1%20MSH2%20MSH6%20PMS2%20EPCAM-orange?style=for-the-badge)
 ![ACMG AMP](https://img.shields.io/badge/ACMG%2FAMP%202015-Standards-blue?style=for-the-badge)
 ![NGS](https://img.shields.io/badge/NGS-Sequencing-green?style=for-the-badge)
 ![Variant Classification](https://img.shields.io/badge/Variant-Classification-purple?style=for-the-badge)
@@ -40,8 +42,10 @@ My name is **Carla Rodrigues de Moraes**!
 
 ### VariantFlow-MMR 🧬
 **Clinical-Grade QC Pipeline for Lynch Syndrome**
+
 - Python | TDD | ACMG/AMP 2015 | 35+ Unit Tests
-- PMS2 Pseudogene Detection | Audit Trail | Compliance
+- PMS2 Pseudogene Detection | Audit Trail | Clinical Compliance
+- Reproducible analysis for variant interpretation
 
 [→ Repository](https://github.com/carla-bioinfo/-variant-flow-mmr)
 
@@ -52,33 +56,40 @@ My name is **Carla Rodrigues de Moraes**!
 
 ---
 
-## 📈 Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carla-bioinfo&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carla-bioinfo&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🎯 About Me
-🧬 Specialization: Clinical Translational Bioinformatics
+🧬 Focus: Clinical Translational Bioinformatics
 
-🔬 Focus: Lynch Syndrome & MMR Genes (MLH1, MSH2, MSH6, PMS2, EPCAM)
+🔬 Specialization: Lynch Syndrome & Mismatch Repair (MMR) Genes
 
 💻 Languages: Python, R, Bash, SQL
 
 🌐 Location: Brasil
 
-📚 Learning: Machine Learning in Genomics
+📚 Currently Learning:
+
+Advanced bioinformatics pipelines
+Machine learning in genomics
+Clinical variant interpretation at scale
+
 ---
 
 ## 💡 Philosophy
 
-> "Software that saves lives is well-tested, well-documented, and reproducible"
+> "Bioinformatics tools should be reproducible, well-tested, and grounded in biological reality"
+
+---
+
+## 📈 What I'm Building
+
+I'm focused on creating open-source tools for Lynch Syndrome and MMR gene variant interpretation.
+
+My goal: **Make clinical bioinformatics more accessible and transparent.**
 
 ---
 
 **Last Updated**: June 2026  
-**Currently Working On**: VariantFlow-MMR ETAPA 4 🚀
+**Currently Working On**: VariantFlow-MMR ETAPA 4 (CLI + Typer) 🚀
 
-⭐ If my work is useful, consider giving my repositories a star!
+⭐ If my work is useful to you, consider giving my repositories a star!
+EOF
+
