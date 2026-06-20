@@ -4,159 +4,255 @@ My name is **Carla Rodrigues de Moraes**.
 
 ---
 
-## 🧬 Bioinformatics Researcher in Training
+# 📊 Healthcare Data Scientist in Training
 
-**Clinical Translational Bioinformatics**  
-Focus: Lynch Syndrome, Variant Interpretation & NGS Analysis
+**Clinical Data Science | Healthcare Analytics | Translational Bioinformatics**
 
-*Building open-source tools for clinical genomics*
+Focused on:
 
----
+- Healthcare Data Analytics
+- Clinical Data Management
+- Machine Learning for Healthcare
+- Clinical Research
+- Translational Bioinformatics
+- Lynch Syndrome & MMR Genes
 
-## 🔬 Research Interests
-
-- Clinical Variant Interpretation (ACMG/AMP 2015)
-- RNA-Seq Analysis & Differential Gene Expression
-- NGS Data Analysis & Quality Control
-- Mismatch Repair (MMR) Genes & Lynch Syndrome
-- Reproducible Bioinformatics Pipelines
-- Machine Learning in Genomics
-
----
-## 🧬 Research Focus
-
-Lynch Syndrome & Mismatch Repair (MMR) Genes
-
-| Gene | Role | Focus |
-|------|------|-------|
-| **MLH1** | Protein-protein interactions | Primary mismatch recognition |
-| **MSH2** | Mismatch recognition complex | DNA damage detection |
-| **MSH6** | Fine-tuning detection | Smaller loop recognition |
-| **PMS2** | Endonuclease activity | ⭐ Pseudogene interference (my focus) |
-| **EPCAM** | Regulatory control | MSH2 expression regulation |
-
-**Related Expertise**: ACMG/AMP 2015 Standards | ClinVar | InSiGHT Database | NGS Analysis
+*Building data-driven solutions for healthcare and precision medicine.*
 
 ---
 
-## 💻 Technical Skills
+# 🔬 Research & Professional Interests
 
-| Category | Proficiency |
-|----------|------------|
-| **Languages** | Python, R, Bash, SQL |
-| **Bioinformatics** | RNA-Seq, NGS, Variant Calling, VCF Analysis, Quality Control |
-| **Tools & Platforms** | Git, GitHub, Docker, Linux, VSCode, Jupyter Notebooks |
-| **Analysis & Visualization** | Statistical Analysis, Data Visualization, Exploratory Data Analysis |
-| **Databases & APIs** | ClinVar, gnomAD, InSiGHT, TCGA, GTEx, ensembl |
-| **Methodologies** | Test-Driven Development (TDD), Reproducible Research, Clinical Compliance |
+• Healthcare Data Analytics
 
----
+• Clinical Data Management
 
-## 📊 Featured Projects
+• Clinical Research & Real World Data
 
-### VariantFlow-MMR 🧬
+• Healthcare Business Intelligence
 
-**Clinical-Grade QC Pipeline for Lynch Syndrome Variant Analysis**
+• Machine Learning Applied to Healthcare
 
-Open-source Python tool for Lynch Syndrome variant interpretation with specialized focus on PMS2 pseudogene detection and ACMG/AMP 2015 evidence collection.
+• Translational Bioinformatics
 
-**Technical Stack**
-- Python 3.9+ | TDD with pytest | Type Hints (100%)
-- 35+ Unit Tests | ~85% Code Coverage
-- Clinical Compliance: CAP/CLIA/ISO 15189
+• Lynch Syndrome & MMR Genes
 
-**Core Modules**
-- **PMS2Assessor**: Detects pseudogene interference in critical regions
-- **ACMGEvidenceCollector**: Automated ACMG/AMP 2015 evidence gathering
-- **AuditTrail**: Reproducible clinical-grade logging with SHA256 verification
-
-**Quick Example**
-
-```bash
-# Input: VCF file with PMS2 variant
-variantflow --vcf sample.vcf --gene PMS2 --output results.json
-
-# Output: Risk assessment + ACMG evidence
-{
-  "variant": "PMS2:chr7:6012876:C>T",
-  "pseudogene_risk": "CRITICAL",
-  "acmg_criteria": ["PVS1", "PM2"],
-  "interpretation": "Likely Pathogenic (requires geneticist review)",
-  "validation_recommended": "Sanger sequencing"
-}
-```
-
-**Repository & Documentation**
-- [→ Main Repository](https://github.com/carla-bioinfo/-variant-flow-mmr)
-- [→ Examples & Test Data](https://github.com/carla-bioinfo/-variant-flow-mmr/tree/master/examples)
-- [→ Course Documentation](https://github.com/carla-bioinfo/-variant-flow-mmr/blob/master/CURSO_ETAPA_3_PARTE_2_COMPLETO.md)
-- [→ Project Summary](https://github.com/carla-bioinfo/-variant-flow-mmr/blob/master/VARIANTFLOW_RESUMO_ETAPA_3_PARTE_2.md)
+• Reproducible Data Science
 
 ---
 
-### crisp-mmr-explorer 🔍
+# 📌 Career Focus
 
-**Bioinformatics Platform for MMR & Lynch Syndrome Analysis**
-
-Exploratory analysis and visualization tools for Lynch Syndrome genomic data.
-
-[→ Repository](https://github.com/carla-bioinfo/crisp-mmr-explorer)
-
----
-
-## 🔬 Selected Analyses & Learning Projects
-
-### RNA-Seq of Lynch Syndrome (TCGA-COAD) *In Progress*
-- **Dataset**: 540 colorectal cancer samples, 54,675 genes
-- **Objective**: Identify gene expression patterns in MMR-deficient
-
-- 🧬 Research Focus
-
-Lynch Syndrome & Variant Interpretation
-🔬 Location
-
-Brasil
-📚 Currently Learning
-
-• Advanced bioinformatics pipelines
-
-• Machine learning in genomics
-
-• Clinical-grade software engineering
-
-• Statistical methods for population genetics
-🌟 Values
-
-Precision, reproducibility, biological accuracy
+| Area | Focus |
+|------|------|
+| Healthcare Analytics | Clinical and operational healthcare data |
+| Clinical Data Management | Clinical trials and data quality |
+| AI in Healthcare | Predictive models and decision support |
+| Bioinformatics | Translational genomics and NGS |
+| Specialty | Lynch Syndrome & MMR Genes |
 
 ---
 
-## 📈 GitHub Activity
+# 🧬 Specialty: Translational Bioinformatics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carla-bioinfo&show_icons=true&theme=dark&hide_border=true)
+### Long-term research focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carla-bioinfo&layout=compact&theme=dark&hide_border=true)
+**Lynch Syndrome & DNA Mismatch Repair (MMR)**
+
+Genes of interest:
+
+| Gene | Main Focus |
+|------|------------|
+| MLH1 | Variant interpretation |
+| MSH2 | DNA mismatch recognition |
+| MSH6 | Variant analysis |
+| PMS2 | Pseudogene interference |
+| EPCAM | MSH2 regulation |
+
+Areas of interest:
+
+- Clinical Variant Interpretation
+- RNA-Seq Analysis
+- NGS Data Analysis
+- Differential Gene Expression
+- Quality Control (QC)
+- Multi-omics Integration
+- AI applied to Molecular Interpretation
 
 ---
 
-## 📚 Resources & Learning
+# 💻 Technical Skills
 
-- **ACMG/AMP 2015**: [Standards for variant interpretation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/)
-- **InSiGHT Database**: [Lynch Syndrome variants](https://www.insightdatabase.org/)
-- **ClinVar**: [Variant interpretation database](https://www.ncbi.nlm.nih.gov/clinvar/)
-- **TCGA Project**: [Public genomic datasets](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
-
----
-
-## 🤝 Get in Touch
-
-- **Email**: carlabio.biomol@gmail.com
-- **Location**: Brasil
-- **LinkedIn**: [in/carla-bioinfo](https://linkedin.com/in/carla-bioinfo)
+| Category | Skills |
+|---------|--------|
+| Programming | Python, SQL, R |
+| Data Science | Pandas, NumPy, Scikit-Learn |
+| Visualization | Power BI, Matplotlib |
+| Clinical Data | Clinical Trials, Data Quality, REDCap |
+| Bioinformatics | RNA-Seq, NGS, Variant Interpretation |
+| Tools | Git, GitHub, Linux, Jupyter |
+| Databases | TCGA, ClinVar, InSiGHT, GDC |
 
 ---
 
-**Last Updated**: June 2026  
-**Currently Building**: VariantFlow-MMR v0.2.0 🚀
+# 📈 Featured Projects
 
-⭐ If you find my work useful, please consider giving my repositories a star!
+## 🏥 Healthcare SQL Project
+
+Clinical database modeling and healthcare analytics.
+
+**Stack**
+
+- SQL
+- Python
+- Healthcare Data
+- Exploratory Data Analysis
+
+---
+
+## 📊 Hospital KPI Dashboard
+
+Interactive dashboard for healthcare operational indicators.
+
+**Stack**
+
+- Power BI
+- SQL
+- Python
+- Data Visualization
+
+---
+
+## 🧪 Clinical Trial Data Quality
+
+Automated quality control and consistency checks for clinical datasets.
+
+**Stack**
+
+- Python
+- SQL
+- Clinical Data Management
+
+---
+
+## 🧬 VariantFlow-MMR
+
+Clinical-grade pipeline for Lynch Syndrome variant analysis.
+
+**Stack**
+
+- Python
+- ACMG/AMP
+- NGS
+- Variant Interpretation
+
+---
+
+## 🔬 RNA-Seq Lynch Syndrome
+
+Transcriptomic analysis of MMR-deficient colorectal tumors.
+
+**Dataset**
+
+- TCGA-COAD
+- 540 samples
+- 54,675 genes
+
+**Stack**
+
+- R
+- DESeq2
+- Data Visualization
+- Statistical Analysis
+
+---
+
+# 🚀 Current Roadmap (2026–2036)
+
+### Education
+
+✅ Biomedicine
+
+🎓 Data Science
+
+---
+
+### Main Career Path
+
+📊 Healthcare Data Science
+
+🏥 Healthcare Analytics
+
+🧪 Clinical Data Management
+
+🤖 AI Applied to Healthcare
+
+---
+
+### Long-term Specialty
+
+🧬 Translational Bioinformatics
+
+🔬 Lynch Syndrome
+
+🧬 Mismatch Repair (MMR)
+
+---
+
+# 📚 Currently Learning
+
+• Advanced SQL for Healthcare
+
+• Power BI for Healthcare Analytics
+
+• Machine Learning in Healthcare
+
+• Clinical Data Management
+
+• RNA-Seq Analysis
+
+• Variant Interpretation (ACMG/AMP)
+
+• Reproducible Data Science
+
+---
+
+# 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carla-bioinfo&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carla-bioinfo&layout=compact)
+
+---
+
+# 📖 Resources & Learning
+
+• ACMG/AMP 2015 Standards for Variant Interpretation
+
+• ClinVar Database
+
+• InSiGHT Database
+
+• TCGA Public Genomic Datasets
+
+• Healthcare Data Analytics
+
+• Clinical Data Management
+
+---
+
+# 🤝 Get in Touch
+
+📧 Email: carlabio.biomol@gmail.com
+
+🌎 Location: Brazil
+
+💼 LinkedIn: https://www.linkedin.com/in/carla-bioinfo/
+
+---
+
+### Current Mission
+
+Transform healthcare data into insights through **Data Science**, **Clinical Research** and **Translational Bioinformatics**, while building expertise in **Lynch Syndrome and MMR genes**.
+
+⭐ If you find my work useful, consider giving my repositories a star!
