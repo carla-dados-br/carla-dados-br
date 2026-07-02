@@ -352,15 +352,17 @@ Automated QC and consistency checks for clinical datasets.
 
 # 💡 Current Mission
 
-Transform healthcare data into **clinical insights** through:
-- **Data Science** (predictive models, analytics)
-- **Clinical Research** (real-world data, outcomes)
-- **Translational Bioinformatics** (genomics, molecular interpretation)
+Build data-driven solutions for healthcare by combining:
+- **Machine Learning & Predictive Analytics** — risk models, classification systems, interpretability
+- **Clinical Data Science** — real-world evidence, statistical validation, data quality
+- **Genomic Data Analysis** — variant classification, transcriptomics, precision medicine
 
-**Specialty:** Lynch Syndrome & MMR gene analysis
+**Specialty:** Lynch Syndrome and Mismatch Repair (MMR) genes — a rare clinical domain where 
+AI + healthcare data unlock real-world impact. I bring domain expertise in variant interpretation 
+(ACMG/AMP standards) and clinical-grade pipelines — rare in the data science market.
 
-**Vision:** Build data-driven solutions for precision medicine while developing entrepreneurial skills for future ventures in healthcare tech.
-
+**Vision:** Transition from dual-degree (Biomedicine + Data Science) → specialized postgraduate 
+training → building a solo micro-agency applying AI/BI to healthcare startups.
 ---
 
 ## ⭐ Support My Work
