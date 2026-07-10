@@ -183,41 +183,6 @@ Recent courses in clinical data science, healthcare analytics, bioinformatics, m
 
 ---
 
-## 💼 Professional Background
-
-### Current Role
-**Consultora de Soluções Digitais e Tecnologia (MEI)** — Nexis Info  
-*Nov 2020 – Present · Remote & Hybrid (Ribeirão Preto, SP)*
-
-Delivering technology and digital solutions for small businesses. Experience with:
-- Institutional websites & e-commerce platforms
-- Digital automation & workflow optimization
-- AI-assisted development & content strategy
-- Cybersecurity implementation & digital transformation support
-
-### Career Before Data Science (2009–2024)
-
-**Graphic Designer** — Advertising Agencies & Freelance *2009–2024 · 15+ years*
-- Brand identity & logo design
-- Marketing collateral (print & digital)
-- Social media graphics & campaigns
-- UI/UX design for web & mobile
-- Photography & image editing
-- Print production & art direction
-
-**Key Clients & Experience:**
-- WM Indústria e Comércio de Roupas — Visual identity & marketing (2 years)
-- Lojas Rai — Advertising & brand management (1+ year)
-- Various startups & small businesses — Full-service design
-
-**Design Skills Transferred to Data Science:**
-- ✅ **Visual Storytelling** → Data visualization & BI dashboards
-- ✅ **Communication Clarity** → Research documentation & clinical reports
-- ✅ **User-Centered Thinking** → Building accessible tools & interfaces
-- ✅ **Problem-Solving** → Data analysis & hypothesis testing
-- ✅ **Attention to Detail** → Code quality & reproducibility
-- ✅ **Learning & Adaptation** → Rapid skill acquisition in tech stack
-
 ---
 
 ## 🎯 Career Roadmap (2026–2028)
