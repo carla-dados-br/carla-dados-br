@@ -7,34 +7,31 @@
 
 ---
 
-## 🎨 → 🧬 Graphic Designer → Data Scientist in Bioinformatics
+## 🎨 → 🧬 Designer → Student of Data Science in Bioinformatics
 
-> **Graphic Designer (2009–2024)** + **Biomedicine student** (graduating Dec 2026) + **Data Science degree** (Dec 2027) → **Career transition to Clinical Data Science, Bioinformatics & Precision Medicine**
+> **Graphic Designer (2009–2024)** | **Biomedicine Student** (graduating Dec 2026) | **Data Science Student** (Dec 2027) | **Learning: Clinical Data Science, Bioinformatics & Genomic Analysis**
 
-Transitioning from **visual communication to data-driven storytelling**. Combining design thinking, clinical knowledge, and programming expertise to build tools for genomic analysis and rare disease research. Specialized in **Lynch Syndrome** and **Mismatch Repair (MMR) genes**.
+Making a **deliberate career transition** from visual design to healthcare data science. Currently a dual-degree student combining clinical knowledge with programming and data analysis. Developing specialized interest in **Lynch Syndrome** and **Mismatch Repair (MMR) genes** through hands-on projects.
 
-🎯 **Actively seeking:** Internship in Healthcare Data Science, Bioinformatics, Clinical Analytics, or HealthTech companies.
+🎯 **Looking for:** Internship in Healthcare Data Science, Bioinformatics, Clinical Analytics, or HealthTech to learn and grow.
 
 ---
 
 ## 🚀 Who I Am
 
-**Career Path:** Graphic Designer & Advertising Professional (2009–2024) → Healthcare Data Scientist in Training (2023–present)
+**Career Path:** Graphic Designer (2009–2024) → Student in Biomedical & Data Science (2023–present)
 
-I spent **15 years in design and visual communication** — creating identities, campaigns, and digital experiences. In 2023, I made a strategic pivot toward **healthcare and precision medicine**, driven by the convergence of **clinical research, data science, and genomics**. Today I'm building a dual skill set through simultaneous degrees (Biomedicine + Data Science) while developing specialized expertise in **clinical bioinformatics** and **rare genetic syndromes**.
+I spent **15 years** designing for advertising and digital agencies. In 2023, I decided to **pivot toward healthcare** because I wanted to apply problem-solving and visual thinking to **real clinical challenges**. Now I'm a student pursuing two degrees simultaneously — **Biomedicine** and **Data Science** — while learning bioinformatics through projects.
 
-**Why this transition?** 
-- Design taught me: communication, problem-solving, visual thinking, user empathy
-- I wanted to apply these skills to **high-impact problems** — precision medicine, rare disease diagnosis
-- **Data + design + biology** = unique position to translate genomic complexity into actionable insights
+**My approach:** I'm not claiming to be an expert. I'm a **curious student who builds things to learn**. I approach projects with honesty about what I don't know, ask good questions, and document my learning process.
 
-**What sets me apart:**
-- ✅ **Clinical domain knowledge** (Biomedicine degree + 3 years study)
-- ✅ **Data science + ML expertise** (dual degree in progress)
-- ✅ **Strong visual communication** (15 years design experience → data visualization, BI dashboards)
-- ✅ **Specialty in Lynch Syndrome & MMR variant interpretation** (ACMG/AMP standards)
-- ✅ **Reproducible research practices** (scientific rigor from training)
-- ✅ **Design thinking applied to healthcare** (user-centered data products)
+**What I bring to a team:**
+- ✅ **15 years of problem-solving** from design background (real professional maturity)
+- ✅ **Clinical thinking** (formal education in Biomedicine, not self-taught)
+- ✅ **Growing technical skills** (Python, R, SQL, Git — still learning daily)
+- ✅ **Visual communication** (can make data understandable, not just correct)
+- ✅ **Honesty about limitations** (I say "I'm learning" instead of pretending mastery)
+- ✅ **Developing interest** in Lynch Syndrome & MMR genes (long-term focus, not quick expertise)
 
 ---
 
@@ -83,18 +80,17 @@ I spent **15 years in design and visual communication** — creating identities,
 
 ## 🔬 Featured Projects
 
-### 🧬 **VariantFlow-MMR** — Clinical Variant Analysis Pipeline
-**Interpreting Lynch Syndrome variants with ACMG/AMP standards**
+### 🧬 **VariantFlow-MMR** — Learning Clinical Variant Analysis
+**Building a variant interpretation pipeline for Lynch Syndrome**
 
-Reproducible Python pipeline for variant interpretation in MMR genes (MLH1, MSH2, MSH6, PMS2, EPCAM). Implements ACMG/AMP 2015 criteria with gene-specific refinements from ClinGen InSiGHT VCEP. Production-ready with comprehensive testing, documentation, and clinical reporting.
+A project I'm developing to **learn about** variant interpretation and clinical workflows. Implementing ACMG/AMP 2015 criteria for MMR genes. This is my attempt at building a reproducible, testable pipeline — still learning best practices.
 
-**Key Features:**
-- ✅ ACMG/AMP 2015 variant classification
-- ✅ Gene-specific criteria (ClinGen InSiGHT VCEP)
-- ✅ Homology analysis & pseudogene risk detection
-- ✅ VCF processing & HTML clinical reports
-- ✅ 51+ passing tests · Pytest coverage
-- ✅ Reproducible pipeline with Git versioning
+**What I'm learning:**
+- ✅ ACMG/AMP 2015 variant classification standards
+- ✅ How to structure bioinformatics pipelines
+- ✅ VCF processing and variant analysis
+- ✅ Writing testable, documented code
+- ✅ Clinical reporting workflows
 
 **Stack:** Python · Pydantic V2 · Typer CLI · Pytest · GitHub
 
@@ -102,17 +98,16 @@ Reproducible Python pipeline for variant interpretation in MMR genes (MLH1, MSH2
 
 ---
 
-### 🧪 **CRISPR-MMR Explorer** — Interactive Variant Classification Platform
-**Web app for exploring and classifying MMR variants**
+### 🧪 **CRISPR-MMR Explorer** — Learning Web Dev + Bioinformatics
+**Building an interactive tool for variant exploration**
 
-FastAPI backend + Streamlit frontend for interactive variant exploration. Integrates ACMGClassifier via Adapter Pattern for extensible, testable clinical software.
+An educational project combining **Streamlit** (frontend) + **FastAPI** (backend) to create an interactive interface for variant classification. I'm learning how to build web tools while exploring variant interpretation.
 
-**Key Features:**
-- ✅ Interactive web interface (Streamlit)
-- ✅ RESTful API (FastAPI)
-- ✅ Real-time variant classification
-- ✅ Evidence visualization
-- ✅ 7/7 integration tests passing
+**What I'm learning:**
+- ✅ Building web interfaces for scientific tools
+- ✅ API design and backend architecture
+- ✅ Connecting frontend to bioinformatics logic
+- ✅ Writing clean, testable code
 
 **Stack:** Python · FastAPI · Streamlit · Pydantic · Pytest
 
@@ -121,19 +116,19 @@ FastAPI backend + Streamlit frontend for interactive variant exploration. Integr
 ---
 
 ### 📊 **Hospital Readmission Risk Prediction**
-**ML-driven prediction model for clinical decision support**
+**Learning ML workflows: from data to model to dashboard**
 
-Data science project building predictive models for 30-day hospital readmission. Covers full ML lifecycle: EDA, feature engineering, model evaluation, feature importance analysis, and BI dashboards.
+A data science project where I practiced the **full ML lifecycle** — from exploratory analysis to model building to visualization. Using a hospital readmission dataset to learn about feature engineering, model evaluation, and communicating results to stakeholders.
 
-**Key Features:**
-- ✅ Exploratory Data Analysis (EDA) with Plotly
+**What I'm learning:**
+- ✅ Exploratory Data Analysis (EDA)
 - ✅ Feature engineering & selection
-- ✅ Multiple ML algorithms (Logistic Regression, XGBoost, Random Forest)
-- ✅ SHAP feature importance analysis
-- ✅ Power BI dashboards for stakeholders
-- ✅ Reproducible pipeline with seed management
+- ✅ Model evaluation and validation
+- ✅ Feature importance interpretation (SHAP)
+- ✅ Communicating results via Power BI
+- ✅ Preventing data leakage
 
-**Dataset:** Diabetes 130-US Hospitals Dataset (10K patients)  
+**Dataset:** Diabetes 130-US Hospitals (10K patients)  
 **Stack:** Python · Scikit-Learn · XGBoost · SHAP · Power BI
 
 📍 **Repository:** [carla-bioinfo/hospital-readmission-prediction](https://github.com/carla-bioinfo/hospital-readmission-prediction)
@@ -141,33 +136,33 @@ Data science project building predictive models for 30-day hospital readmission.
 ---
 
 ### 🔬 **RNA-Seq Lynch Syndrome Analysis**
-**Transcriptomic investigation of MMR-deficient colorectal tumors**
+**Learning transcriptomics: from data to biological interpretation**
 
-Phase 8 genome-wide expression analysis comparing MMR-deficient (dMMR) vs proficient (pMMR) colorectal cancer samples. Includes differential expression, functional enrichment, pathway analysis, and external validation.
+My semester project analyzing **differential gene expression in Lynch Syndrome tumors**. I'm learning how to work with large genomic datasets, apply statistical tests, and interpret results in a clinical context.
 
-**Key Features:**
-- ✅ 585 tumor samples (GSE39582)
-- ✅ 54,675 genes analyzed
-- ✅ DESeq2 differential expression analysis
+**Current progress:** Phase 8 (external validation)
+
+**What I'm learning:**
+- ✅ RNA-Seq data processing and QC
+- ✅ Differential expression analysis (DESeq2)
 - ✅ Functional enrichment (KEGG, GO terms)
+- ✅ Pathway analysis
 - ✅ Survival analysis (Kaplan-Meier, Cox regression)
-- ✅ External validation (GSE17536, 177 samples)
-- ✅ Publication-ready figures
+- ✅ Validating findings in independent cohorts
 
-**Findings:** dMMR tumors exhibit "Hot Tumor Phenotype" with elevated immune infiltration signatures and distinct survival patterns.
-
+**Dataset:** GSE39582 (585 tumor samples), external validation GSE17536 (177 samples)  
 **Stack:** R · DESeq2 · ggplot2 · Survival · Bioconductor
 
 📍 **Repository:** [carla-bioinfo/projeto_1_rnaseq_mmr](https://github.com/carla-bioinfo/projeto_1_rnaseq_mmr)
 
 ---
 
-### 🔐 **CodeVault** — Code Analysis & Audit Tool
-**Clinical-grade code security, quality, and compliance validation**
+### 🔐 **CodeVault** — Learning Code Quality & Security
+**Exploring code analysis and software best practices**
 
-Professional-grade Python tool implementing 11 validation gates for security (secrets, SQL injection, dependencies), quality (type hints, linting), testing (coverage ≥80%), and compliance (HIPAA, GDPR, FDA standards).
+A project to learn about **code security, quality, and reproducibility**. Implementing validation gates for testing, linting, coverage, and compliance. Still exploring and learning what makes "good" scientific code.
 
-**Stack:** Python · Typer · Pydantic · Rich · Pytest
+**Stack:** Python · Typer · Pydantic · Pytest · Rich
 
 📍 **Repository:** [carla-bioinfo/codevault](https://github.com/carla-bioinfo/codevault)
 
@@ -308,31 +303,42 @@ Topics: Bioinformatics, Data Science, Healthcare Analytics, Lynch Syndrome, Vari
 
 ---
 
-## 📝 Note on My Career Transition
+## 📝 Who I Really Am
 
-I'm a **design-to-data-science career-changer** — bringing 15 years of visual communication expertise into healthcare data science. This isn't a pivot away from my strengths; it's **applying them to higher-impact problems**.
+I'm a **design student turned bioinformatics student** — and I'm honest about where I stand:
 
-**From graphic designer to bioinformatics specialist:**
-- Design taught me **communication** → Now translating genomic complexity into actionable insights
-- Design taught me **visual thinking** → Now building data visualizations & BI dashboards
-- Design taught me **problem-solving** → Now solving precision medicine challenges
-- Design taught me **user empathy** → Now building tools clinicians actually want to use
+**The honest truth:**
+- 🎨 I was a graphic designer for 15 years ✅
+- 📚 I'm NOW a student in Biomedicine (graduating Dec 2026)
+- 📚 I'm NOW a student in Data Science (graduating Dec 2027)
+- 🧬 I'm learning bioinformatics through projects (not an expert)
+- 💻 My programming skills are still growing
 
-I bring:
-- ✅ **15 years of design & communication expertise** (rare in data science)
-- ✅ **Clinical knowledge** (dual-degree student in Biomedicine + Data Science)
-- ✅ **Programming skills** (Python, R, SQL, Git, reproducible research)
-- ✅ **Visual storytelling** (dashboards, presentations, data communication)
-- ✅ **Specialty in Lynch Syndrome & MMR bioinformatics**
+**I'm NOT:**
+- ❌ An expert in anything yet
+- ❌ A professional data scientist (still learning)
+- ❌ A bioinformatics specialist (still studying)
+- ❌ Claiming mastery I don't have
+
+**What I actually bring:**
+- ✅ **15 years of professional problem-solving** (design background)
+- ✅ **Formal education in Biomedicine** (not self-taught guessing)
+- ✅ **Growing technical skills** (Python, R, SQL, Git, testing)
+- ✅ **Visual communication ability** (dashboards that actually look good)
+- ✅ **Intellectual honesty** (I say "I'm learning" instead of pretending expertise)
+- ✅ **Curiosity about Lynch Syndrome & rare diseases** (genuine interest, long-term focus)
+
+**My philosophy:**
+I believe in "always a student, never an expert." I ask questions, I make mistakes, I document my learning, and I stay curious. I'd rather grow with mentors than pretend I already know everything.
 
 **If you're hiring for:**
-- ✅ Junior/intern roles in healthcare data science
-- ✅ Bioinformatics specialists with communication skills
-- ✅ Data analysts with design thinking & clinical interest
-- ✅ HealthTech product teams (design + tech + biology)
-- ✅ Clinical research coordinators with technical skills
+- ✅ **Junior/intern roles** in healthcare data science or bioinformatics
+- ✅ **Students who think differently** (design background = unique perspective)
+- ✅ **People who ask good questions** (I do)
+- ✅ **Teachable team members** (that's literally me)
+- ✅ **Someone willing to start from basics** (because I am)
 
-**Let's talk!** I'm committed, curious, and building something meaningful.
+**Let's talk!** Especially if you value curiosity, honesty, and continuous learning.
 
 ---
 
