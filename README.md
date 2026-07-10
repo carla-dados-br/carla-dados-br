@@ -1,380 +1,299 @@
-# Hello there! Welcome! 👋
+# 👋 Carla Rodrigues de Moraes
 
-My name is **Carla Rodrigues de Moraes**.
-
----
-
-# 📊 Healthcare Data Scientist in Training
-
-**Clinical Data Science | Healthcare Analytics | Translational Bioinformatics**
-
-Focused on:
-
-- Healthcare Data Analytics
-- Clinical Data Management
-- Machine Learning for Healthcare
-- Clinical Research
-- Translational Bioinformatics
-- Lynch Syndrome & MMR Genes
-
-*Building data-driven solutions for healthcare and precision medicine.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carla--bioinfo-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/carla-bioinfo)
+[![GitHub](https://img.shields.io/badge/GitHub-carla--bioinfo-181717?style=flat-square&logo=github)](https://github.com/carla-bioinfo)
+[![Lattes](https://img.shields.io/badge/Lattes-6123614883134404-FF7B1D?style=flat-square)](http://lattes.cnpq.br/6123614883134404)
+[![Email](https://img.shields.io/badge/Email-carlabio.biomol%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:carlabio.biomol@gmail.com)
 
 ---
 
-# 🎯 Currently Building
+## 📊 Data Science in Healthcare | Transitioning to Bioinformatics & AI
 
-## 🔐 **CodeVault** — Code Analysis & Audit Tool ⭐
+> **Biomedicine student** (graduating Dec 2026) + **Data Science degree** (Dec 2027) + **Professional background in Advertising & Tech (2009–2024)** → **Career transition to Clinical Data Science, Healthcare Analytics, and Translational Bioinformatics**
 
-Professional-grade Python tool for code analysis, verification & audit with focus on:
-- **Security**: Hardcoded secrets, SQL injection, dependency vulnerabilities
-- **Quality**: Type hints, linting, formatting standards
-- **Testing**: Coverage validation (≥80%)
-- **Reproducibility**: Requirements management, scientific standards
-- **Compliance**: HIPAA, GDPR, FDA standards
+Combining **clinical domain knowledge**, **programming skills**, and **data-driven thinking** to solve real-world healthcare problems. Specialized focus on **Lynch Syndrome** and **Mismatch Repair (MMR) genes**.
 
-✨ **11 Gates (S0-S11)** structured validation pipeline  
-✨ Typer CLI | Pydantic validation | Rich output  
-✨ Open Source (MIT) | Actively developing  
-
-→ **[Explore CodeVault →](https://github.com/carla-bioinfo/codevault)**
+🎯 **Actively seeking:** Internship opportunities in Healthcare Data Science, Clinical Analytics, Bioinformatics, and HealthTech companies.
 
 ---
 
-# 🔬 Research & Professional Interests
+## 🚀 Who I Am
 
-• Healthcare Data Analytics
+**Career Path:** Designer/Developer (2009–2024) → Healthcare Data Scientist in Training (2023–present)
 
-• Clinical Data Management
+I come from **13+ years in web development and graphic design**. In 2023, I made a deliberate career pivot toward **healthcare**, driven by the intersection of **data science, genomics, and precision medicine**. Today I'm a dual-degree student (Biomedicine + Data Science) building a specialized skill set in **clinical bioinformatics** with focus on **rare genetic syndromes**.
 
-• Clinical Research & Real World Data
-
-• Healthcare Business Intelligence
-
-• Machine Learning Applied to Healthcare
-
-• Translational Bioinformatics
-
-• Lynch Syndrome & MMR Genes
-
-• Reproducible Data Science
+**What sets me apart:**
+- ✅ Actual clinical domain knowledge (Biomedicine degree)
+- ✅ Professional-grade coding skills (13 years in tech)
+- ✅ Data science + ML expertise (ongoing degree)
+- ✅ Specialty in Lynch Syndrome & MMR variant interpretation
+- ✅ Reproducible research practices
+- ✅ Strong communication across domains
 
 ---
 
-# 📌 Career Focus
+## 🛠️ Technical Stack
 
-| Area | Focus |
-|------|-------|
-| Healthcare Analytics | Clinical and operational healthcare data |
-| Clinical Data Management | Clinical trials and data quality |
-| AI in Healthcare | Predictive models and decision support |
-| Bioinformatics | Translational genomics and NGS |
-| Specialty | Lynch Syndrome & MMR Genes |
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-4.0+-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Linux-4EAA25?style=flat-square&logo=linux&logoColor=white)
 
----
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-239DAD?style=flat-square&logo=plotly&logoColor=white)
 
-# 🧬 Specialty: Translational Bioinformatics
+### Bioinformatics & NGS
+![DESeq2](https://img.shields.io/badge/DESeq2-RNA--Seq-blue?style=flat-square)
+![GATK](https://img.shields.io/badge/GATK-Variant%20Calling-green?style=flat-square)
+![VEP](https://img.shields.io/badge/VEP-Variant%20Effect-orange?style=flat-square)
+![FastQC](https://img.shields.io/badge/FastQC-QC-purple?style=flat-square)
 
-### Long-term research focus
+### Web & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Lynch Syndrome & DNA Mismatch Repair (MMR)**
-
-Genes of interest:
-
-| Gene | Main Focus |
-|------|-----------|
-| MLH1 | Variant interpretation |
-| MSH2 | DNA mismatch recognition |
-| MSH6 | Variant analysis |
-| PMS2 | Pseudogene interference |
-| EPCAM | MSH2 regulation |
-
-Areas of interest:
-
-- Clinical Variant Interpretation
-- RNA-Seq Analysis
-- NGS Data Analysis
-- Differential Gene Expression
-- Quality Control (QC)
-- Multi-omics Integration
-- AI applied to Molecular Interpretation
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# 💻 Technical Skills
+## 🔬 Featured Projects
 
-| Category | Skills |
-|----------|--------|
-| Programming | Python, SQL, R, Bash |
-| Data Science | Pandas, NumPy, Scikit-Learn, TensorFlow |
-| Visualization | Power BI, Matplotlib, Seaborn, Plotly |
-| Clinical Data | Clinical Trials, Data Quality, REDCap |
-| Bioinformatics | RNA-Seq, NGS, Variant Interpretation, ACMG/AMP |
-| Tools | Git, GitHub, Linux, Jupyter, VS Code |
-| Databases | TCGA, ClinVar, InSiGHT, GDC, gnomAD |
+### 🧬 **VariantFlow-MMR** — Clinical Variant Analysis Pipeline
+**Interpreting Lynch Syndrome variants with ACMG/AMP standards**
 
----
+Reproducible Python pipeline for variant interpretation in MMR genes (MLH1, MSH2, MSH6, PMS2, EPCAM). Implements ACMG/AMP 2015 criteria with gene-specific refinements from ClinGen InSiGHT VCEP. Production-ready with comprehensive testing, documentation, and clinical reporting.
 
-# 📈 Featured Projects
+**Key Features:**
+- ✅ ACMG/AMP 2015 variant classification
+- ✅ Gene-specific criteria (ClinGen InSiGHT VCEP)
+- ✅ Homology analysis & pseudogene risk detection
+- ✅ VCF processing & HTML clinical reports
+- ✅ 51+ passing tests · Pytest coverage
+- ✅ Reproducible pipeline with Git versioning
 
-## 🔐 **CodeVault** — Code Analysis & Audit
+**Stack:** Python · Pydantic V2 · Typer CLI · Pytest · GitHub
 
-Clinical-grade code verification tool with 11 validation gates.
-
-**Focus**
-- Security (Bandit, Semgrep, pip-audit)
-- Quality (Type hints, Linting, Formatting)
-- Testing (Coverage ≥80%, Pytest)
-- Reproducibility (Scientific standards)
-- Compliance (HIPAA, GDPR, FDA)
-
-**Stack**
-- Python 3.9+
-- Typer (CLI)
-- Pydantic (Validation)
-- Pytest (Testing)
-
-**Repository** → https://github.com/carla-bioinfo/codevault
+📍 **Repository:** [carla-bioinfo/variant-flow-mmr](https://github.com/carla-bioinfo/variant-flow-mmr)
 
 ---
 
-## 🧬 **VariantFlow-MMR** — Clinical Variant Analysis
+### 🧪 **CRISPR-MMR Explorer** — Interactive Variant Classification Platform
+**Web app for exploring and classifying MMR variants**
 
-Clinical-grade pipeline for Lynch Syndrome variant interpretation.
+FastAPI backend + Streamlit frontend for interactive variant exploration. Integrates ACMGClassifier via Adapter Pattern for extensible, testable clinical software.
 
-**Focus**
-- ACMG/AMP 2015 standards
-- MLH1, MSH2, MSH6, PMS2, EPCAM genes
-- Homology analysis
-- Pseudogene risk detection
-- Clinical reporting
+**Key Features:**
+- ✅ Interactive web interface (Streamlit)
+- ✅ RESTful API (FastAPI)
+- ✅ Real-time variant classification
+- ✅ Evidence visualization
+- ✅ 7/7 integration tests passing
 
-**Stack**
-- Python
-- Pydantic V2
-- ACMG Classification
-- VCF Processing
+**Stack:** Python · FastAPI · Streamlit · Pydantic · Pytest
 
----
-
-## 📊 **Hospital Readmission Risk Prediction**
-
-Data Science project: ML model for hospital readmission prediction with feature importance analysis.
-
-**Focus**
-- Predictive modeling
-- Feature engineering
-- Feature importance analysis
-- Power BI dashboards
-- Synthetic 10K patient dataset
-
-**Stack**
-- Python
-- Pandas, NumPy, Scikit-Learn
-- Power BI
-- SQL
+📍 **Repository:** [carla-bioinfo/crispr-mmr-explorer](https://github.com/carla-bioinfo/crispr-mmr-explorer)
 
 ---
 
-## 🔬 **RNA-Seq Lynch Syndrome**
+### 📊 **Hospital Readmission Risk Prediction**
+**ML-driven prediction model for clinical decision support**
 
-Transcriptomic analysis of MMR-deficient colorectal tumors.
+Data science project building predictive models for 30-day hospital readmission. Covers full ML lifecycle: EDA, feature engineering, model evaluation, feature importance analysis, and BI dashboards.
 
-**Dataset**
-- TCGA-COAD
-- 540 samples
-- 54,675 genes
+**Key Features:**
+- ✅ Exploratory Data Analysis (EDA) with Plotly
+- ✅ Feature engineering & selection
+- ✅ Multiple ML algorithms (Logistic Regression, XGBoost, Random Forest)
+- ✅ SHAP feature importance analysis
+- ✅ Power BI dashboards for stakeholders
+- ✅ Reproducible pipeline with seed management
 
-**Focus**
-- Differential gene expression
-- Statistical analysis
-- Visualization
-- Biological interpretation
+**Dataset:** Diabetes 130-US Hospitals Dataset (10K patients)  
+**Stack:** Python · Scikit-Learn · XGBoost · SHAP · Power BI
 
-**Stack**
-- R (DESeq2, edgeR, limma)
-- Data Visualization
-- Statistical Analysis
+📍 **Repository:** [carla-bioinfo/hospital-readmission-prediction](https://github.com/carla-bioinfo/hospital-readmission-prediction)
 
 ---
 
-## 🧪 **CRISPR-MMR Explorer** — Variant Classification
+### 🔬 **RNA-Seq Lynch Syndrome Analysis**
+**Transcriptomic investigation of MMR-deficient colorectal tumors**
 
-Streamlit/FastAPI platform for variant classification using ACMG/AMP 2015 standards.
+Phase 8 genome-wide expression analysis comparing MMR-deficient (dMMR) vs proficient (pMMR) colorectal cancer samples. Includes differential expression, functional enrichment, pathway analysis, and external validation.
 
-**Focus**
-- Interactive variant exploration
-- ACMG/AMP classification
-- Clinical interpretation
-- Evidence-based reporting
+**Key Features:**
+- ✅ 585 tumor samples (GSE39582)
+- ✅ 54,675 genes analyzed
+- ✅ DESeq2 differential expression analysis
+- ✅ Functional enrichment (KEGG, GO terms)
+- ✅ Survival analysis (Kaplan-Meier, Cox regression)
+- ✅ External validation (GSE17536, 177 samples)
+- ✅ Publication-ready figures
 
-**Stack**
-- Python
-- Streamlit
-- FastAPI
-- Pydantic
+**Findings:** dMMR tumors exhibit "Hot Tumor Phenotype" with elevated immune infiltration signatures and distinct survival patterns.
 
----
+**Stack:** R · DESeq2 · ggplot2 · Survival · Bioconductor
 
-## 📈 **Clinical Trial Data Quality**
-
-Automated QC and consistency checks for clinical datasets.
-
-**Stack**
-- Python
-- SQL
-- Healthcare Data Management
+📍 **Repository:** [carla-bioinfo/projeto_1_rnaseq_mmr](https://github.com/carla-bioinfo/projeto_1_rnaseq_mmr)
 
 ---
 
-# 🚀 Current Roadmap (2026–2027)
+### 🔐 **CodeVault** — Code Analysis & Audit Tool
+**Clinical-grade code security, quality, and compliance validation**
 
-### Education
+Professional-grade Python tool implementing 11 validation gates for security (secrets, SQL injection, dependencies), quality (type hints, linting), testing (coverage ≥80%), and compliance (HIPAA, GDPR, FDA standards).
 
-✅ Biomedicine (graduating Dec 2026)
+**Stack:** Python · Typer · Pydantic · Rich · Pytest
 
-🎓 Data Science (graduating Dec 2027)
-
-📚 Postgraduate Bioinformatics (starting early 2027)
-
----
-
-### Main Career Path
-
-📊 Healthcare Data Science
-
-🏥 Healthcare Analytics & Business Intelligence
-
-🧪 Clinical Data Management
-
-🤖 AI/ML Applied to Healthcare
+📍 **Repository:** [carla-bioinfo/codevault](https://github.com/carla-bioinfo/codevault)
 
 ---
 
-### Long-term Specialty & Entrepreneurship
+## 📚 Education & Certifications
 
-🧬 Translational Bioinformatics
+### 🎓 Degrees
+- **Biomedicine** — Anhanguera Educational (graduating Dec 2026)
+- **Data Science** — Universidade de Franca (graduating Dec 2027)
 
-🔬 Lynch Syndrome & Mismatch Repair (MMR)
+### 📜 Advanced Certifications (74 total)
+Recent courses in clinical data science, healthcare analytics, bioinformatics, machine learning, statistical computing, and secure development. Full list available on [LinkedIn](https://linkedin.com/in/carla-bioinfo).
 
-💼 Building SaaS in genomics/healthcare (2027+)
-
-📈 Consulting in bioinformatics & data science
-
----
-
-# 📚 Currently Learning & Building
-
-• Advanced SQL for Healthcare
-
-• Power BI for Healthcare Analytics  
-
-• Machine Learning in Healthcare
-
-• Clinical Data Management Standards
-
-• RNA-Seq & Transcriptomics
-
-• Variant Interpretation (ACMG/AMP)
-
-• Reproducible Data Science Practices
-
-• Professional Python Architecture
-
-• Software Engineering for Data Science
+### 🎯 Postgraduate Plans
+- **Postgraduate Specialization in Bioinformatics** — Starting Jan 2027
+- **Possible Master's in Molecular Genetics** — FMRP/USP (2028+)
 
 ---
 
-# 🏆 Key Achievements
+## 💼 Professional Background
 
-- ✅ Built 5+ bioinformatics pipelines
-- ✅ ACMG/AMP variant classification expertise
-- ✅ Healthcare analytics & BI experience
-- ✅ 540+ sample RNA-Seq analysis
-- ✅ Open source projects published
-- ✅ Professional code architecture skills
-- ✅ Dual degree (Biomedicine + Data Science)
+### Current Role
+**Consultora de Soluções Digitais e Tecnologia (MEI)** — Nexis Info  
+*Nov 2020 – Present · Remote & Hybrid*
 
----
+Delivering technology services and digital solutions for small businesses and individual clients.
+- Building institutional websites and e-commerce platforms
+- Developing automation tools and digital workflows
+- AI-assisted development & content generation
+- Cybersecurity implementation & support
+- Technical troubleshooting & device optimization
 
-# 📈 GitHub Activity
+### Previous Experience (2009–2020)
+- **Graphic Designer** — Advertising agencies & freelance (2009–2020, 11+ years)
+- **Web Developer** — Distribution centers & companies (2011–2014, 3+ years)
+- **Multiple roles** in web development, graphic design, system administration
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carla-bioinfo&show_icons=true&theme=dark&hide=contribs)](https://github.com/carla-bioinfo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carla-bioinfo&layout=compact&theme=dark)](https://github.com/carla-bioinfo)
-
----
-
-# 📚 Key Resources & Databases
-
-**Clinical Variant Interpretation**
-- ACMG/AMP 2015 Standards
-- ClinVar Database
-- InSiGHT Database (Lynch-specific)
-- COSMIC (Cancer mutations)
-- OncoKB (Cancer knowledgebase)
-
-**Genomic Data**
-- TCGA Public Genomic Datasets
-- gnomAD (Population variants)
-- GTEx (Gene expression)
-- 1000 Genomes Project
-
-**Healthcare Analytics**
-- Healthcare Data Standards (HL7, FHIR)
-- Clinical Data Management (Good Clinical Practice)
-- FDA Guidance Documents
+**Key Skills Transferred:** Problem-solving, client communication, project management, attention to detail, rapid learning.
 
 ---
 
-# 🤝 Get in Touch
+## 🎯 Career Roadmap (2026–2028)
 
-📧 **Email** → carlabio.biomol@gmail.com
+### Near-term (2026)
+- ✅ Complete Biomedicine degree (Dec 2026)
+- 🎯 Secure **internship in Clinical Data Science / Healthcare Analytics**
+- 🎯 Build AWS SageMaker portfolio project
+- 🎯 Contribute to open-source bioinformatics projects
 
-🌐 **LinkedIn** → [carla-bioinfo](https://www.linkedin.com/in/carla-bioinfo/)
+### Medium-term (2027)
+- ✅ Start postgraduate Bioinformatics specialization (Jan 2027)
+- 🎯 Complete Data Science degree (Dec 2027)
+- 🎯 Transition to full-time healthcare analytics role
+- 🎯 Publish 1–2 research articles on Lynch Syndrome / MMR analysis
 
-🐙 **GitHub** → [@carla-bioinfo](https://github.com/carla-bioinfo)
-
-📍 **Location** → Brazil
-
----
-
-# 🚀 Featured Repositories
-
-| Repository | Description | Stars |
-|-----------|------------|-------|
-| [CodeVault](https://github.com/carla-bioinfo/codevault) | Code analysis & audit tool | 🔆 NEW |
-| [VariantFlow-MMR](https://github.com/carla-bioinfo/variant-flow-mmr) | Lynch Syndrome variant pipeline | ⭐⭐ |
-| [CRISPR-MMR Explorer](https://github.com/carla-bioinfo/crispr-mmr-explorer) | Variant classification platform | ⭐ |
-| [RNA-Seq Lynch](https://github.com/carla-bioinfo/projeto_1_rnaseq_mmr) | Transcriptomics analysis | ⭐ |
-| [Hospital Readmission](https://github.com/carla-bioinfo/hospital-readmission-prediction) | Predictive ML models | ⭐ |
+### Long-term (2028+)
+- 🎯 Pursue Master's in Molecular Genetics (FMRP/USP)
+- 🎯 Build specialized HealthTech micro-agency
+- 🎯 Consulting in bioinformatics & clinical data science
+- 🎯 Lead rare disease research & AI initiatives
 
 ---
 
-# 💡 Current Mission
+## 🎯 Career Interests & Job Targets
 
-Build data-driven solutions for healthcare by combining:
-- **Machine Learning & Predictive Analytics** — risk models, classification systems, interpretability
-- **Clinical Data Science** — real-world evidence, statistical validation, data quality
-- **Genomic Data Analysis** — variant classification, transcriptomics, precision medicine
+**Seeking:** Internship or junior roles in:
+- 🏥 **Healthcare Data Science** — Risk prediction, patient analytics, clinical decision support
+- 📊 **Healthcare Analytics & BI** — Dashboards, reporting, operational intelligence
+- 🧬 **Bioinformatics** — Variant interpretation, genomics pipelines, precision medicine
+- 🔬 **Clinical Research** — Real-world evidence, data management, statistical analysis
+- 🤖 **HealthTech** — Startups building AI/ML solutions for healthcare
 
-**Specialty:** Lynch Syndrome and Mismatch Repair (MMR) genes — a rare clinical domain where 
-AI + healthcare data unlock real-world impact. I bring domain expertise in variant interpretation 
-(ACMG/AMP standards) and clinical-grade pipelines — rare in the data science market.
-
-**Vision:** Transition from dual-degree (Biomedicine + Data Science) → specialized postgraduate 
-training → building a solo micro-agency applying AI/BI to healthcare startups.
----
-
-## ⭐ Support My Work
-
-If you find my projects useful or interesting:
-- Give repos a **star** ⭐
-- **Follow** for updates
-- **Contribute** with PRs (always welcome!)
-- **Share** with colleagues
+**Specialization:** Lynch Syndrome, MMR genes, colorectal cancer genomics, variant interpretation, transcriptomics.
 
 ---
 
-**Last Updated:** June 2026 | **Status:** Actively Building 🚀
+## 📈 GitHub Activity
 
-*"Build in public. Learn in public. Share in public."*
+```
+Profile: github.com/carla-bioinfo
+Public Repos: 10+
+Topics: Bioinformatics, Data Science, Healthcare Analytics, Lynch Syndrome, Variant Interpretation
+```
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carla-bioinfo&show_icons=true&theme=github_dark&hide_rank=true)](https://github.com/carla-bioinfo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carla-bioinfo&layout=compact&theme=github_dark)](https://github.com/carla-bioinfo)
+
+---
+
+## 🔗 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [carla-bioinfo](https://linkedin.com/in/carla-bioinfo) |
+| 🐙 **GitHub** | [@carla-bioinfo](https://github.com/carla-bioinfo) |
+| 📖 **Lattes CV** | [6123614883134404](http://lattes.cnpq.br/6123614883134404) |
+| 📧 **Email** | carlabio.biomol@gmail.com |
+| 📍 **Location** | Batatais, São Paulo, Brazil |
+
+---
+
+## 🌟 What I Value
+
+✨ **Scientific Rigor** — Data-driven decisions, reproducible research, honest uncertainty quantification  
+✨ **Clinical Impact** — Building tools that matter for patient care and rare disease research  
+✨ **Code Quality** — Readable, tested, documented, version-controlled code  
+✨ **Continuous Learning** — New techniques, frameworks, domains, perspectives  
+✨ **Open Science** — Sharing knowledge, contributing to open-source, transparent methods  
+
+---
+
+## 💡 Current Focus
+
+**Building a specialized skill set at the intersection of:**
+- 📊 Machine Learning & Predictive Analytics
+- 🏥 Clinical Data Science & Healthcare Analytics
+- 🧬 Genomic Data Analysis & Bioinformatics
+- 🎯 Rare disease research (Lynch Syndrome focus)
+
+**Mission:** Bridge clinical domain knowledge with technical expertise to create measurable impact in precision medicine and rare disease diagnosis.
+
+---
+
+## 📝 Note
+
+I'm a **career-changer in training** — not yet a healthcare professional, but building expertise through formal education (dual degrees), hands-on projects, and continuous learning. I bring **real technical skills from 13 years in software development** combined with **emerging clinical knowledge** and **passion for healthcare innovation**.
+
+If you're hiring for:
+- ✅ Junior/intern roles in healthcare data science
+- ✅ Data analysts with clinical domain interest
+- ✅ Bioinformatics specialists (early career)
+- ✅ Clinical research coordinators with tech skills
+- ✅ HealthTech product roles
+
+**Let's talk!** I'm committed, curious, and ready to learn.
+
+---
+
+**Last Updated:** July 2026 | **Status:** Actively Building 🚀
+
+*"Bridge the gap between biology, data, and technology to unlock precision medicine."*
