@@ -7,35 +7,40 @@
 
 ---
 
-## 📊 Data Science in Healthcare | Transitioning to Bioinformatics & AI
+## 🎨 → 🧬 Graphic Designer → Data Scientist in Bioinformatics
 
-> **Biomedicine student** (graduating Dec 2026) + **Data Science degree** (Dec 2027) + **Professional background in Advertising & Tech (2009–2024)** → **Career transition to Clinical Data Science, Healthcare Analytics, and Translational Bioinformatics**
+> **Graphic Designer (2009–2024)** + **Biomedicine student** (graduating Dec 2026) + **Data Science degree** (Dec 2027) → **Career transition to Clinical Data Science, Bioinformatics & Precision Medicine**
 
-Combining **clinical domain knowledge**, **programming skills**, and **data-driven thinking** to solve real-world healthcare problems. Specialized focus on **Lynch Syndrome** and **Mismatch Repair (MMR) genes**.
+Transitioning from **visual communication to data-driven storytelling**. Combining design thinking, clinical knowledge, and programming expertise to build tools for genomic analysis and rare disease research. Specialized in **Lynch Syndrome** and **Mismatch Repair (MMR) genes**.
 
-🎯 **Actively seeking:** Internship opportunities in Healthcare Data Science, Clinical Analytics, Bioinformatics, and HealthTech companies.
+🎯 **Actively seeking:** Internship in Healthcare Data Science, Bioinformatics, Clinical Analytics, or HealthTech companies.
 
 ---
 
 ## 🚀 Who I Am
 
-**Career Path:** Designer/Developer (2009–2024) → Healthcare Data Scientist in Training (2023–present)
+**Career Path:** Graphic Designer & Advertising Professional (2009–2024) → Healthcare Data Scientist in Training (2023–present)
 
-I come from **13+ years in web development and graphic design**. In 2023, I made a deliberate career pivot toward **healthcare**, driven by the intersection of **data science, genomics, and precision medicine**. Today I'm a dual-degree student (Biomedicine + Data Science) building a specialized skill set in **clinical bioinformatics** with focus on **rare genetic syndromes**.
+I spent **15 years in design and visual communication** — creating identities, campaigns, and digital experiences. In 2023, I made a strategic pivot toward **healthcare and precision medicine**, driven by the convergence of **clinical research, data science, and genomics**. Today I'm building a dual skill set through simultaneous degrees (Biomedicine + Data Science) while developing specialized expertise in **clinical bioinformatics** and **rare genetic syndromes**.
+
+**Why this transition?** 
+- Design taught me: communication, problem-solving, visual thinking, user empathy
+- I wanted to apply these skills to **high-impact problems** — precision medicine, rare disease diagnosis
+- **Data + design + biology** = unique position to translate genomic complexity into actionable insights
 
 **What sets me apart:**
-- ✅ Actual clinical domain knowledge (Biomedicine degree)
-- ✅ Professional-grade coding skills (13 years in tech)
-- ✅ Data science + ML expertise (ongoing degree)
-- ✅ Specialty in Lynch Syndrome & MMR variant interpretation
-- ✅ Reproducible research practices
-- ✅ Strong communication across domains
+- ✅ **Clinical domain knowledge** (Biomedicine degree + 3 years study)
+- ✅ **Data science + ML expertise** (dual degree in progress)
+- ✅ **Strong visual communication** (15 years design experience → data visualization, BI dashboards)
+- ✅ **Specialty in Lynch Syndrome & MMR variant interpretation** (ACMG/AMP standards)
+- ✅ **Reproducible research practices** (scientific rigor from training)
+- ✅ **Design thinking applied to healthcare** (user-centered data products)
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Languages & Core Tools
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-4.0+-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -45,25 +50,34 @@ I come from **13+ years in web development and graphic design**. In 2023, I made
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-239DAD?style=flat-square&logo=plotly&logoColor=white)
+
+### Data Visualization & BI
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-239DAD?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Plots-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical-3498db?style=flat-square)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### Bioinformatics & NGS
 ![DESeq2](https://img.shields.io/badge/DESeq2-RNA--Seq-blue?style=flat-square)
 ![GATK](https://img.shields.io/badge/GATK-Variant%20Calling-green?style=flat-square)
-![VEP](https://img.shields.io/badge/VEP-Variant%20Effect-orange?style=flat-square)
+![VEP](https://img.shields.io/badge/VEP-Annotation-orange?style=flat-square)
 ![FastQC](https://img.shields.io/badge/FastQC-QC-purple?style=flat-square)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-Genomics-7EBDC2?style=flat-square)
 
 ### Web & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Design & Visual Tools (From Graphic Design Background)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe-Photoshop%20·%20Illustrator%20·%20InDesign-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-KeeP--OS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -178,21 +192,36 @@ Recent courses in clinical data science, healthcare analytics, bioinformatics, m
 
 ### Current Role
 **Consultora de Soluções Digitais e Tecnologia (MEI)** — Nexis Info  
-*Nov 2020 – Present · Remote & Hybrid*
+*Nov 2020 – Present · Remote & Hybrid (Ribeirão Preto, SP)*
 
-Delivering technology services and digital solutions for small businesses and individual clients.
-- Building institutional websites and e-commerce platforms
-- Developing automation tools and digital workflows
-- AI-assisted development & content generation
-- Cybersecurity implementation & support
-- Technical troubleshooting & device optimization
+Delivering technology and digital solutions for small businesses. Experience with:
+- Institutional websites & e-commerce platforms
+- Digital automation & workflow optimization
+- AI-assisted development & content strategy
+- Cybersecurity implementation & digital transformation support
 
-### Previous Experience (2009–2020)
-- **Graphic Designer** — Advertising agencies & freelance (2009–2020, 11+ years)
-- **Web Developer** — Distribution centers & companies (2011–2014, 3+ years)
-- **Multiple roles** in web development, graphic design, system administration
+### Career Before Data Science (2009–2024)
 
-**Key Skills Transferred:** Problem-solving, client communication, project management, attention to detail, rapid learning.
+**Graphic Designer** — Advertising Agencies & Freelance *2009–2024 · 15+ years*
+- Brand identity & logo design
+- Marketing collateral (print & digital)
+- Social media graphics & campaigns
+- UI/UX design for web & mobile
+- Photography & image editing
+- Print production & art direction
+
+**Key Clients & Experience:**
+- WM Indústria e Comércio de Roupas — Visual identity & marketing (2 years)
+- Lojas Rai — Advertising & brand management (1+ year)
+- Various startups & small businesses — Full-service design
+
+**Design Skills Transferred to Data Science:**
+- ✅ **Visual Storytelling** → Data visualization & BI dashboards
+- ✅ **Communication Clarity** → Research documentation & clinical reports
+- ✅ **User-Centered Thinking** → Building accessible tools & interfaces
+- ✅ **Problem-Solving** → Data analysis & hypothesis testing
+- ✅ **Attention to Detail** → Code quality & reproducibility
+- ✅ **Learning & Adaptation** → Rapid skill acquisition in tech stack
 
 ---
 
@@ -279,21 +308,34 @@ Topics: Bioinformatics, Data Science, Healthcare Analytics, Lynch Syndrome, Vari
 
 ---
 
-## 📝 Note
+## 📝 Note on My Career Transition
 
-I'm a **career-changer in training** — not yet a healthcare professional, but building expertise through formal education (dual degrees), hands-on projects, and continuous learning. I bring **real technical skills from 13 years in software development** combined with **emerging clinical knowledge** and **passion for healthcare innovation**.
+I'm a **design-to-data-science career-changer** — bringing 15 years of visual communication expertise into healthcare data science. This isn't a pivot away from my strengths; it's **applying them to higher-impact problems**.
 
-If you're hiring for:
+**From graphic designer to bioinformatics specialist:**
+- Design taught me **communication** → Now translating genomic complexity into actionable insights
+- Design taught me **visual thinking** → Now building data visualizations & BI dashboards
+- Design taught me **problem-solving** → Now solving precision medicine challenges
+- Design taught me **user empathy** → Now building tools clinicians actually want to use
+
+I bring:
+- ✅ **15 years of design & communication expertise** (rare in data science)
+- ✅ **Clinical knowledge** (dual-degree student in Biomedicine + Data Science)
+- ✅ **Programming skills** (Python, R, SQL, Git, reproducible research)
+- ✅ **Visual storytelling** (dashboards, presentations, data communication)
+- ✅ **Specialty in Lynch Syndrome & MMR bioinformatics**
+
+**If you're hiring for:**
 - ✅ Junior/intern roles in healthcare data science
-- ✅ Data analysts with clinical domain interest
-- ✅ Bioinformatics specialists (early career)
-- ✅ Clinical research coordinators with tech skills
-- ✅ HealthTech product roles
+- ✅ Bioinformatics specialists with communication skills
+- ✅ Data analysts with design thinking & clinical interest
+- ✅ HealthTech product teams (design + tech + biology)
+- ✅ Clinical research coordinators with technical skills
 
-**Let's talk!** I'm committed, curious, and ready to learn.
+**Let's talk!** I'm committed, curious, and building something meaningful.
 
 ---
 
 **Last Updated:** July 2026 | **Status:** Actively Building 🚀
 
-*"Bridge the gap between biology, data, and technology to unlock precision medicine."*
+*"Translating genomic complexity into precision medicine through data and design."*
