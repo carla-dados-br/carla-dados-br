@@ -20,7 +20,7 @@
 
 <div style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 20px 0;">
 
-Graduanda em **Biomedicina e Ciência de Dados** pela USP (conclusão dez/2026), com foco na análise de dados, governança e inteligência artificial aplicadas à saúde.
+Graduanda em **Biomedicina e Ciência de Dados** (conclusão dez/2026), com foco na análise de dados, governança e inteligência artificial aplicadas à saúde.
 
 **Desenvolvendo conhecimentos em:**
 - 📊 Análise e visualização de dados
@@ -110,7 +110,7 @@ Modelos confiáveis
 </tr>
 <tr>
 <td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">💻 GitHub</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://github.com" style="color: #d4537e; text-decoration: none; font-weight: bold;">@carla-rodrigues</a></td>
+<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://github.com" style="color: #d4537e; text-decoration: none; font-weight: bold;">https://github.com/cibersec-gov/</a></td>
 </tr>
 </table>
 
