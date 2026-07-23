@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-Graduanda em **Biomedicina e Ciência de Dados** (USP, conclusão dez/2026), com foco na análise de dados, governança e inteligência artificial aplicadas à saúde.
+Graduanda em **Biomedicina e Ciência de Dados** (conclusão dez/2026), com foco na análise de dados, governança e inteligência artificial aplicadas à saúde.
 
 Desenvolvendo conhecimentos em:
 - 📊 Análise e visualização de dados
