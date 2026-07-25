@@ -1,3 +1,5 @@
+<!-- Projeto em construção -->
+
 ---
 
 <h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">🚧 Projeto em construção</h2>
