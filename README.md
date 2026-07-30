@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cibersec/"><img src="https://img.shields.io/badge/LinkedIn-d4537e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:crm.cibersec@gmail.com"><img src="https://img.shields.io/badge/Email-d4537e?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-d4537e?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/carla-rodrigues-br/"><img src="https://img.shields.io/badge/LinkedIn-d4537e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:carladados.br@gmail.com"><img src="https://img.shields.io/badge/Email-d4537e?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/carla-dados-br"><img src="https://img.shields.io/badge/GitHub-d4537e?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://instagram.com/dados.saude"><img src="https://img.shields.io/badge/Instagram-d4537e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <br/>
   <img src="https://img.shields.io/badge/✨-Sempre%20Aprendendo-%23d4537e?style=flat-square&labelColor=%23fbeaf0" alt="Sempre Aprendendo">
 </p>
@@ -30,6 +31,18 @@ Graduanda em **Biomedicina e Ciência de Dados** (conclusão dez/2026), com foco
 - 💾 Arquitetura de dados e pipelines ETL
 
 Busco desenvolver **soluções orientadas por dados** que apoiem a tomada de decisão, aumentem a eficiência operacional e promovam o uso seguro, ético e confiável das informações.
+
+</div>
+
+---
+
+<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">📡 Acompanhando o mercado</h2>
+
+<div style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 20px 0;">
+
+Tenho acompanhado de perto os principais gargalos de dados na saúde no Brasil, e três aparecem com mais frequência: a fragmentação entre sistemas que ainda não conversam entre si, a governança tratada como questão cultural e não apenas técnica, e a escassez de profissionais que unam domínio de dados e contexto de saúde.
+
+Uso esses achados para direcionar meus próprios projetos, sempre partindo de um problema real do setor em vez de um exercício isolado.
 
 </div>
 
@@ -97,32 +110,29 @@ Modelos confiáveis
 
 <div style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 20px 0;">
 
-<h3 align="center" style="color: #d4537e;">🏥 VitalFlow — Plataforma de Dados Clínicos</h3>
+<h3 align="center" style="color: #d4537e;">🏥 Diagnóstico de Qualidade e Governança de Dados em Saúde</h3>
 
-<p align="center"><em>Pipeline de engenharia de dados que transforma exportações de prontuário em um banco clínico modelado, validado e governado — reproduzível num comando.</em></p>
+<p align="center"><em>Diagnóstico da qualidade e da fragmentação dos dados cadastrais de estabelecimentos de saúde no Brasil, usando a base pública do CNES (DATASUS), com proposta de framework de governança a partir dos achados.</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-ed93b1?style=flat-square" alt="Em construção">
   <img src="https://img.shields.io/badge/in%C3%ADcio-jul%202026-d4537e?style=flat-square" alt="Início julho 2026">
 </p>
 
-> ⚠️ **Ambiente-laboratório.** Cenário fictício (Clínica Aurora) e dados sintéticos (Synthea). Não representa organização real nem constitui parecer jurídico. A camada de governança é projetada como se o dado fosse real — nenhuma conformidade legal é aqui alegada.
-
-**O problema que resolve:** dado clínico bruto chega em múltiplos arquivos, com tipos inconsistentes, sem modelo analítico e sem ninguém saber o que cada campo significa nem se é confiável. Este projeto o torna íntegro, consultável e rastreável.
+**O problema que resolve:** gestores de saúde tomam decisões com base em cadastros que podem estar incompletos, desatualizados ou inconsistentes entre municípios. Este projeto mede isso com dados reais e propõe regras mínimas de governança para corrigir.
 
 **O que estou construindo:**
-- 🔄 **Pipeline ETL reprodutível** — ingestão, validação e carga idempotente (PostgreSQL + Docker)
-- 📐 **Modelagem dimensional** — esquema estrela pronto para análise
-- ✅ **Contrato de qualidade de dados** — regras de completude, validade e consistência com limiar e severidade
-- 📚 **Governança de dados** — catálogo, dicionário, classificação de sensibilidade e linhagem coluna a coluna
-- 🔐 **Proteção de dados aplicada** — registro das operações de tratamento e política de retenção
-- 🧪 **Testes e CI** — validação automatizada a cada mudança
+- 🔎 **Extração e exploração** — consultas SQL sobre a base pública do CNES
+- 🧹 **Tratamento de dados** — limpeza e padronização em Python
+- 📏 **Indicadores de qualidade** — completude, consistência e atualidade do cadastro por região
+- 📊 **Dashboard** — visualização dos achados em Power BI
+- 📚 **Framework de governança** — proposta de regras e responsabilidades para o cadastro
 
 <p align="center">
-<strong style="color: #d4537e;">Competências:</strong> Python · SQL · PostgreSQL · ETL · Modelagem dimensional · Qualidade de dados · Catálogo e linhagem · Docker · pytest · CI
+<strong style="color: #d4537e;">Competências:</strong> SQL · Python · Power BI · Qualidade de dados · Governança de dados · Git
 </p>
 
-<p align="center"><em>🌱 1º de 4 projetos de um ecossistema de dados em saúde — acompanhe o progresso no repositório.</em></p>
+<p align="center"><em>🌱 Acompanhe o progresso no repositório.</em></p>
 
 </div>
 
@@ -137,15 +147,19 @@ Modelos confiáveis
 </tr>
 <tr>
 <td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">💼 LinkedIn</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://www.linkedin.com/in/cibersec/" style="color: #d4537e; text-decoration: none; font-weight: bold;">linkedin.com/in/cibersec</a></td>
+<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://www.linkedin.com/in/carla-rodrigues-br/" style="color: #d4537e; text-decoration: none; font-weight: bold;">linkedin.com/in/carla-rodrigues-br</a></td>
+</tr>
+<tr>
+<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">📸 Instagram</td>
+<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://instagram.com/dados.saude" style="color: #d4537e; text-decoration: none; font-weight: bold;">@dados.saude</a></td>
 </tr>
 <tr>
 <td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">📧 Email</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="mailto:crm.cibersec@gmail.com" style="color: #d4537e; text-decoration: none; font-weight: bold;">crm.cibersec@gmail.com</a></td>
+<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="mailto:carladados.br@gmail.com" style="color: #d4537e; text-decoration: none; font-weight: bold;">carladados.br@gmail.com</a></td>
 </tr>
 <tr>
 <td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">💻 GitHub</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://github.com/cibersec-gov/" style="color: #d4537e; text-decoration: none; font-weight: bold;">github.com/cibersec-gov</a></td>
+<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://github.com/carla-dados-br" style="color: #d4537e; text-decoration: none; font-weight: bold;">github.com/carla-dados-br</a></td>
 </tr>
 </table>
 
