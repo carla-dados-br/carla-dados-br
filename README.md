@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Ciência de Dados • Governança de Dados • Proteção de Dados em Saúde</b>
+  <b>Dados para Saúde • Qualidade e Governança de Dados • Interoperabilidade (HL7 FHIR · RNDS)</b>
 </p>
 
 <p align="center">
@@ -12,164 +12,210 @@
   <a href="https://github.com/carla-dados-br"><img src="https://img.shields.io/badge/GitHub-d4537e?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://instagram.com/dados.saude"><img src="https://img.shields.io/badge/Instagram-d4537e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <br/>
-  <img src="https://img.shields.io/badge/✨-Sempre%20Aprendendo-%23d4537e?style=flat-square&labelColor=%23fbeaf0" alt="Sempre Aprendendo">
+  <img src="https://img.shields.io/badge/✨-Profissional%20em%20formação-%23d4537e?style=flat-square&labelColor=%23fbeaf0" alt="Profissional em formação">
 </p>
 
 ---
 
-<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">👋 Sobre mim</h2>
+<h2 align="center">👋 Sobre mim</h2>
 
-<div style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 20px 0;">
+> Trabalho para transformar dado clínico e administrativo em **informação confiável** para apoiar decisões em hospitais, laboratórios e operadoras de saúde.
+>
+> Graduanda em **Biomedicina** (conclusão dez/2026) e em **Ciência de Dados e Inteligência Artificial** (conclusão dez/2027). A combinação é intencional: entender o que significa um exame, um procedimento ou um fluxo assistencial muda a forma como se lê uma base de dados.
+>
+> Meu foco é o **ciclo de vida completo do dado em organizações de saúde** — geração no ambiente clínico, integração, qualidade, governança, análise e apoio à decisão.
 
-Graduanda em **Biomedicina e Ciência de Dados** (conclusão dez/2026), com foco na análise de dados, governança e inteligência artificial aplicadas à saúde.
-
-**Desenvolvendo conhecimentos em:**
-- 📊 Análise e visualização de dados
-- 🔒 Governança de dados, LGPD e segurança da informação
-- 🏥 Gestão de dados clínicos e pesquisa
-- 🤖 Inteligência Artificial e automação de processos
-- 💾 Arquitetura de dados e pipelines ETL
-
-Busco desenvolver **soluções orientadas por dados** que apoiem a tomada de decisão, aumentem a eficiência operacional e promovam o uso seguro, ético e confiável das informações.
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Biomedicina-fbeaf0?style=flat-square&labelColor=d4537e&color=fbeaf0" alt="Biomedicina">
+  <img src="https://img.shields.io/badge/Ciência_de_Dados_e_IA-fbeaf0?style=flat-square&labelColor=d4537e&color=fbeaf0" alt="Ciência de Dados e IA">
+  <img src="https://img.shields.io/badge/Dados_para_Saúde-fbeaf0?style=flat-square&labelColor=d4537e&color=fbeaf0" alt="Dados para Saúde">
+</p>
 
 ---
 
-<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">📡 Acompanhando o mercado</h2>
+<h2 align="center">📡 O contexto que orienta meus projetos</h2>
 
-<div style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 20px 0;">
+> Não escolho projetos por tendência. Escolho por **obrigação técnica e regulatória já publicada** no Brasil.
 
-Tenho acompanhado de perto os principais gargalos de dados na saúde no Brasil, e três aparecem com mais frequência: a fragmentação entre sistemas que ainda não conversam entre si, a governança tratada como questão cultural e não apenas técnica, e a escassez de profissionais que unam domínio de dados e contexto de saúde.
+| Referência | O que estabelece | Por que direciona meu trabalho |
+|---|---|---|
+| **Decreto nº 12.560/2025** | Dispõe sobre a RNDS e as Plataformas SUS Digital, consolidando a rede como infraestrutura nacional de interoperabilidade | Interoperabilidade deixou de ser projeto e virou requisito |
+| **HL7 FHIR na RNDS** | Padrão adotado para a troca de informações em saúde com a rede | Define o vocabulário técnico que preciso dominar |
+| **Padrão TISS / TUSS — ANS** | Padrão obrigatório de troca de informações na saúde suplementar | Mesmo problema, outro ecossistema — e outro conjunto de armadilhas de terminologia |
+| **LGPD + agenda da ANPD** | Dados de saúde como dados sensíveis, com fiscalização priorizada | Qualidade e linhagem de dados passam a exigir evidência, não só boa prática |
 
-Uso esses achados para direcionar meus próprios projetos, sempre partindo de um problema real do setor em vez de um exercício isolado.
+**O que aprendo com isso:** o gargalo dos dados em saúde no Brasil raramente é volume. É **significado** — o mesmo paciente com identificadores diferentes, diagnóstico em texto livre, mapeamentos entre terminologias que ninguém documentou.
 
-</div>
+<p align="center">
+  <em>Estudo essas normas nas fontes oficiais e registro o que entendo — e o que ainda não entendo.</em>
+</p>
 
 ---
 
-<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">🎯 Especialidades em desenvolvimento</h2>
+<h2 align="center">🎯 Competências em desenvolvimento</h2>
 
-<table align="center" style="margin: 20px 0;">
+<table align="center">
 <tr>
-<td align="center" style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 8px;">
-<strong style="color: #d4537e; font-size: 16px;">📊 Análise & Visualização</strong><br/><br/>
-Transformar dados em insights visuais
+<td align="center" width="50%">
+<strong>📏 Qualidade de Dados</strong><br/><br/>
+Completude, consistência, atualidade<br/>e causa-raiz operacional
 </td>
-<td align="center" style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 8px;">
-<strong style="color: #d4537e; font-size: 16px;">🔒 Governança de Dados</strong><br/><br/>
-Qualidade e ciclo de vida
+<td align="center" width="50%">
+<strong>🗂️ Governança & Linhagem</strong><br/><br/>
+Metadados, rastreabilidade<br/>e evidência auditável
 </td>
 </tr>
 <tr>
-<td align="center" style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 8px;">
-<strong style="color: #d4537e; font-size: 16px;">🛡️ Segurança & LGPD</strong><br/><br/>
-Proteção de dados clínicos
+<td align="center" width="50%">
+<strong>🔗 Interoperabilidade</strong><br/><br/>
+HL7 FHIR, RNDS, TISS/TUSS<br/>e terminologias clínicas
 </td>
-<td align="center" style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 8px;">
-<strong style="color: #d4537e; font-size: 16px;">🤖 Inteligência Artificial</strong><br/><br/>
-Modelos confiáveis
+<td align="center" width="50%">
+<strong>📊 Análise & Visualização</strong><br/><br/>
+SQL, Python e Power BI aplicados<br/>a indicadores assistenciais
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<strong>🛡️ LGPD em Saúde</strong><br/><br/>
+Dados sensíveis, bases legais<br/>e proteção por design
+</td>
+<td align="center" width="50%">
+<strong>🏥 Contexto Assistencial</strong><br/><br/>
+Base biomédica aplicada à leitura<br/>crítica do dado clínico
 </td>
 </tr>
 </table>
 
----
-
-<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">💼 Buscando oportunidades em</h2>
-
-<table align="center" style="margin: 20px auto; border-collapse: collapse;">
-<tr>
-<td style="background: #f4c0d1; color: #4b1528; padding: 12px 16px; text-align: center; border: 1px solid #ed93b1; font-weight: bold;">📈 Cientista de Dados</td>
-<td style="background: #f4c0d1; color: #4b1528; padding: 12px 16px; text-align: center; border: 1px solid #ed93b1; font-weight: bold;">📊 Análise de Dados</td>
-</tr>
-<tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 16px; text-align: center; border: 1px solid #f4c0d1;">Desenvolvimento de modelos preditivos</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 16px; text-align: center; border: 1px solid #f4c0d1;">Extração de insights</td>
-</tr>
-<tr>
-<td style="background: #f4c0d1; color: #4b1528; padding: 12px 16px; text-align: center; border: 1px solid #ed93b1; font-weight: bold;">🏆 Governança e Qualidade</td>
-<td style="background: #f4c0d1; color: #4b1528; padding: 12px 16px; text-align: center; border: 1px solid #ed93b1; font-weight: bold;">⚙️ Automação de Processos</td>
-</tr>
-<tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 16px; text-align: center; border: 1px solid #f4c0d1;">Gestão do ciclo de vida dos dados</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 16px; text-align: center; border: 1px solid #f4c0d1;">Otimização de workflows</td>
-</tr>
-<tr>
-<td style="background: #f4c0d1; color: #4b1528; padding: 12px 16px; text-align: center; border: 1px solid #ed93b1; font-weight: bold;">🤖 Inteligência Artificial</td>
-<td style="background: #f4c0d1; color: #4b1528; padding: 12px 16px; text-align: center; border: 1px solid #ed93b1; font-weight: bold;">🔐 Proteção de Dados (LGPD)</td>
-</tr>
-<tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 16px; text-align: center; border: 1px solid #f4c0d1;">Sistemas confiáveis e explicáveis</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 16px; text-align: center; border: 1px solid #f4c0d1;">Conformidade regulatória</td>
-</tr>
-</table>
+<p align="center">
+  <sub><em>Estudo em andamento. Não me apresento como especialista em nenhum destes temas.</em></sub>
+</p>
 
 ---
 
-<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">🚧 Projeto em construção</h2>
+<h2 align="center">🛠️ Stack</h2>
 
-<div style="background: #fbeaf0; border: 1px solid #f4c0d1; border-radius: 8px; padding: 16px; margin: 20px 0;">
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-d4537e?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-d4537e?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-d4537e?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Power_BI-d4537e?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Git-d4537e?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/DuckDB-d4537e?style=flat-square&logo=duckdb&logoColor=white" alt="DuckDB">
+</p>
 
-<h3 align="center" style="color: #d4537e;">🏥 Diagnóstico de Qualidade e Governança de Dados em Saúde</h3>
+---
 
-<p align="center"><em>Diagnóstico da qualidade e da fragmentação dos dados cadastrais de estabelecimentos de saúde no Brasil, usando a base pública do CNES (DATASUS), com proposta de framework de governança a partir dos achados.</em></p>
+<h2 align="center">🚧 Projeto em construção</h2>
+
+<h3 align="center">🏥 Diagnóstico de Qualidade e Governança de Dados em Saúde</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-ed93b1?style=flat-square" alt="Em construção">
   <img src="https://img.shields.io/badge/in%C3%ADcio-jul%202026-d4537e?style=flat-square" alt="Início julho 2026">
+  <img src="https://img.shields.io/badge/dados-p%C3%BAblicos%20CNES%2FDATASUS-f4c0d1?style=flat-square&labelColor=d4537e" alt="Dados públicos CNES/DATASUS">
 </p>
 
-**O problema que resolve:** gestores de saúde tomam decisões com base em cadastros que podem estar incompletos, desatualizados ou inconsistentes entre municípios. Este projeto mede isso com dados reais e propõe regras mínimas de governança para corrigir.
+> **O problema:** gestores de saúde tomam decisões a partir de cadastros que podem estar incompletos, desatualizados ou inconsistentes entre municípios. Este projeto mede isso com dados públicos reais e propõe regras mínimas de governança para corrigir.
 
-**O que estou construindo:**
-- 🔎 **Extração e exploração** — consultas SQL sobre a base pública do CNES
-- 🧹 **Tratamento de dados** — limpeza e padronização em Python
-- 📏 **Indicadores de qualidade** — completude, consistência e atualidade do cadastro por região
-- 📊 **Dashboard** — visualização dos achados em Power BI
-- 📚 **Framework de governança** — proposta de regras e responsabilidades para o cadastro
+**O que estou construindo**
+
+| Etapa | Entrega |
+|---|---|
+| 🔎 **Extração e exploração** | Consultas SQL sobre a base pública do CNES |
+| 🧹 **Tratamento** | Limpeza e padronização em Python |
+| 📏 **Indicadores de qualidade** | Completude, consistência e atualidade do cadastro por região, cada um com regra explícita e critério de reprovação |
+| 🧬 **Linhagem** | Registro de origem e de cada transformação aplicada a cada campo |
+| 🔗 **Mapeamento exploratório para FHIR** | Correspondência entre atributos do CNES e recursos FHIR — documentando o que mapeia, o que não mapeia e por quê |
+| 📊 **Dashboard** | Visualização dos achados em Power BI |
+| 📚 **Framework de governança** | Proposta de regras, papéis e responsabilidades para o cadastro |
 
 <p align="center">
-<strong style="color: #d4537e;">Competências:</strong> SQL · Python · Power BI · Qualidade de dados · Governança de dados · Git
+<strong>Competências aplicadas:</strong> SQL · Python · Power BI · Qualidade de dados · Linhagem · Governança · FHIR · Git
 </p>
+
+> [!NOTE]
+> Projeto de estudo, construído com **dados públicos**. Não representa implantação em instituição de saúde.
 
 <p align="center"><em>🌱 Acompanhe o progresso no repositório.</em></p>
 
-</div>
-
 ---
 
-<h2 align="center" style="color: #d4537e; border-bottom: 2px solid #ed93b1; padding-bottom: 10px;">📬 Entre em contato</h2>
+<h2 align="center">🗺️ Próximos passos</h2>
 
-<table align="center" style="margin: 20px auto; border-collapse: collapse;">
+<table align="center">
 <tr>
-<td style="background: #ed93b1; color: white; padding: 12px 20px; font-weight: bold; text-align: left;">Plataforma</td>
-<td style="background: #ed93b1; color: white; padding: 12px 20px; font-weight: bold; text-align: center;">Acesso</td>
+<td align="center"><strong>Agora</strong></td>
+<td>Concluir o diagnóstico do CNES e publicar documentação completa</td>
 </tr>
 <tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">💼 LinkedIn</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://www.linkedin.com/in/carla-rodrigues-br/" style="color: #d4537e; text-decoration: none; font-weight: bold;">linkedin.com/in/carla-rodrigues-br</a></td>
+<td align="center"><strong>A seguir</strong></td>
+<td>Aprofundar HL7 FHIR e terminologias clínicas (CID, LOINC, SNOMED CT, TUSS)</td>
 </tr>
 <tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">📸 Instagram</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://instagram.com/dados.saude" style="color: #d4537e; text-decoration: none; font-weight: bold;">@dados.saude</a></td>
-</tr>
-<tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">📧 Email</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="mailto:carladados.br@gmail.com" style="color: #d4537e; text-decoration: none; font-weight: bold;">carladados.br@gmail.com</a></td>
-</tr>
-<tr>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1;">💻 GitHub</td>
-<td style="background: #fbeaf0; color: #2c2c2a; padding: 12px 20px; border: 1px solid #f4c0d1; text-align: center;"><a href="https://github.com/carla-dados-br" style="color: #d4537e; text-decoration: none; font-weight: bold;">github.com/carla-dados-br</a></td>
+<td align="center"><strong>Depois</strong></td>
+<td>Pós-graduação em Ciência de Dados em Saúde / Informática em Saúde</td>
 </tr>
 </table>
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #fbeaf0 0%, #f4c0d1 100%); border: 2px solid #ed93b1; border-radius: 8px; padding: 20px; margin: 20px 0;">
+<h2 align="center">💼 Buscando oportunidades</h2>
 
-### 🌸 Especializando no ciclo de vida dos dados em saúde
+<p align="center">
+  <img src="https://img.shields.io/badge/Est%C3%A1gio-d4537e?style=flat-square" alt="Estágio">
+  <img src="https://img.shields.io/badge/Posi%C3%A7%C3%A3o%20j%C3%BAnior-d4537e?style=flat-square" alt="Posição júnior">
+</p>
 
-_Da análise e visualização à governança, automação de processos, inteligência artificial e proteção de dados._
+<table align="center">
+<tr>
+<td align="center"><strong>📊 Analista de Dados em Saúde</strong><br/><sub>Indicadores assistenciais e operacionais</sub></td>
+<td align="center"><strong>📈 Analista de BI em Saúde</strong><br/><sub>Modelagem e visualização para gestão</sub></td>
+</tr>
+<tr>
+<td align="center"><strong>🗂️ Qualidade e Governança de Dados</strong><br/><sub>Ciclo de vida, linhagem e conformidade</sub></td>
+<td align="center"><strong>🔗 Integração e Interoperabilidade</strong><br/><sub>RNDS, FHIR, TISS e sistemas clínicos</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <sub>Hospitais · Laboratórios · Operadoras · Healthtechs · Gestão pública de saúde</sub>
+</p>
+
+---
+
+<h2 align="center">📬 Contato</h2>
+
+<table align="center">
+<tr>
+<th align="left">Plataforma</th>
+<th align="center">Acesso</th>
+</tr>
+<tr>
+<td>💼 LinkedIn</td>
+<td align="center"><a href="https://www.linkedin.com/in/carla-rodrigues-br/">linkedin.com/in/carla-rodrigues-br</a></td>
+</tr>
+<tr>
+<td>📸 Instagram</td>
+<td align="center"><a href="https://instagram.com/dados.saude">@dados.saude</a></td>
+</tr>
+<tr>
+<td>📧 E-mail</td>
+<td align="center"><a href="mailto:carladados.br@gmail.com">carladados.br@gmail.com</a></td>
+</tr>
+<tr>
+<td>💻 GitHub</td>
+<td align="center"><a href="https://github.com/carla-dados-br">github.com/carla-dados-br</a></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌸 Construindo carreira no ciclo de vida dos dados em saúde
+
+_Da geração do dado clínico à governança, à análise e ao apoio à decisão._
 
 **Sempre aprendendo. Nunca especialista.** ✨
 
