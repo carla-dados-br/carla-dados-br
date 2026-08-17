@@ -196,10 +196,6 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 <td align="center"><a href="https://www.linkedin.com/in/carla-rodrigues-br/">linkedin.com/in/carla-rodrigues-br</a></td>
 </tr>
 <tr>
-<td>📸 Instagram</td>
-<td align="center"><a href="https://instagram.com/dados.saude">@dados.saude</a></td>
-</tr>
-<tr>
 <td>📧 E-mail</td>
 <td align="center"><a href="mailto:carladados.br@gmail.com">carladados.br@gmail.com</a></td>
 </tr>
