@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/carla-rodrigues-br/"><img src="https://img.shields.io/badge/LinkedIn-d4537e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:carladados.br@gmail.com"><img src="https://img.shields.io/badge/Email-d4537e?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/carla-dados-br"><img src="https://img.shields.io/badge/GitHub-d4537e?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://instagram.com/dados.saude"><img src="https://img.shields.io/badge/Instagram-d4537e?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/carla-dados-br"><img src="https://img.shields.io/badge/GitHub-d4537e?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> 
   <br/>
   <img src="https://img.shields.io/badge/✨-Profissional%20em%20formação-%23d4537e?style=flat-square&labelColor=%23fbeaf0" alt="Profissional em formação">
 </p>
