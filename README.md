@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Fundadora da Nexis — Dados em Saúde • Análise e Qualidade de Dados • SQL · Python · Power BI</b>
+  <b>Tecnologia • Dados em Saúde • Análise e Qualidade de Dados • SQL · Python · Power BI</b>
 </p>
 
 <p align="center">
@@ -18,13 +18,17 @@
 
 <h2 align="center">👋 Sobre mim</h2>
 
-> Trabalho para transformar dado clínico e administrativo em **informação confiável** para apoiar decisões em hospitais, laboratórios e operadoras de saúde.
->
-> Graduanda em **Biomedicina** (conclusão dez/2026) e em **Ciência de Dados e Inteligência Artificial** (conclusão dez/2027). A combinação é intencional: entender o que significa um exame, um procedimento ou um fluxo assistencial muda a forma como se lê uma base de dados.
->
-> Atuo em tecnologia desde 2009, em desenvolvimento e manutenção de sistemas, com atividade formalizada desde 2020.
->
-> Meu foco é o **ciclo de vida completo do dado em organizações de saúde** — geração no ambiente clínico, integração, qualidade, governança, análise e apoio à decisão.
+> Trabalho com tecnologia e estou direcionando minha trajetória profissional para **Dados em Saúde**, unindo experiência prática em tecnologia, formação em Biomedicina e formação em Ciência de Dados e Inteligência Artificial.
+
+> Minha trajetória em tecnologia começou em 2009, com desenvolvimento e manutenção de sistemas e, posteriormente, prestação de serviços envolvendo organização de informações, sistemas, relatórios, painéis e automações.
+
+> Atualmente, curso **Biomedicina** (conclusão dez/2026) e **Ciência de Dados e Inteligência Artificial** (conclusão dez/2027). A combinação das áreas amplia minha capacidade de compreender tanto o contexto em que o dado de saúde é produzido quanto os processos necessários para analisá-lo e avaliá-lo.
+
+> Na formação em Biomedicina, tive experiência prática em laboratório de análises clínicas, acompanhando etapas do fluxo laboratorial e a geração de informações desde a identificação da amostra até a liberação do resultado.
+
+> Na área de dados, desenvolvo projetos utilizando **SQL, Python e Power BI**, com foco em análise, modelagem, profiling, validação, documentação e qualidade de dados.
+
+> Meu foco atual é desenvolver uma atuação em **Dados em Saúde**, começando por análise e qualidade e avançando progressivamente para governança e interoperabilidade.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Biomedicina-fbeaf0?style=flat-square&labelColor=d4537e&color=fbeaf0" alt="Biomedicina">
@@ -34,65 +38,46 @@
 
 ---
 
-<h2 align="center">🏛️ Nexis — Dados em Saúde</h2>
+<h2 align="center">💻 Tecnologia e Dados</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/fase-funda%C3%A7%C3%A3o%20t%C3%A9cnica%20e%20valida%C3%A7%C3%A3o-ed93b1?style=flat-square" alt="Fundação técnica e validação">
-  <img src="https://img.shields.io/badge/modelo-B2B-d4537e?style=flat-square" alt="B2B">
-  <img src="https://img.shields.io/badge/projetos%20com%20organiza%C3%A7%C3%B5es%20de%20sa%C3%BAde-2027-f4c0d1?style=flat-square&labelColor=d4537e" alt="Projetos a partir de 2027">
+  <img src="https://img.shields.io/badge/Tecnologia-desde%202009-d4537e?style=flat-square" alt="Tecnologia desde 2009">
+  <img src="https://img.shields.io/badge/Dados_em_Saúde-em%20desenvolvimento-ed93b1?style=flat-square" alt="Dados em Saúde em desenvolvimento">
 </p>
 
-> **Análise e qualidade de dados para organizações de saúde.**
->
-> A Nexis existe para responder a uma pergunta operacional: os dados que saem da operação são os mesmos que chegam ao envio, e eles resistem à regra que o órgão regulador aplica?
+> Minha experiência profissional em tecnologia antecede minha formação atual em dados.
 
-**Território de evolução**
+> Ao longo dessa trajetória, trabalhei com desenvolvimento e manutenção de sistemas e com demandas de tecnologia para empresas, incluindo organização de informações, sistemas internos, relatórios, painéis e automações.
+
+> A formação em Biomedicina trouxe o contexto da saúde. A formação em Ciência de Dados e Inteligência Artificial amplia a base técnica para trabalhar com dados.
+
+**Direção profissional atual**
 
 ```text
-ANÁLISE → QUALIDADE → GOVERNANÇA → INTEROPERABILIDADE → ENGENHARIA → ARQUITETURA
+TECNOLOGIA → DADOS → SAÚDE → QUALIDADE → GOVERNANÇA → INTEROPERABILIDADE
 ```
 
-A identidade é **Dados em Saúde**. SQL, Python, Power BI, FHIR e cloud são meios, não posicionamento.
+A identidade profissional é **Dados em Saúde**.
 
-**Primeira especialização:** qualidade de dados, com o Padrão TISS como porta técnica inicial.
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<strong>✅ O que já existe</strong><br/><br/>
-Método em desenvolvimento<br/>
-Projeto de evidência em dado público<br/>
-Documentação técnica aberta
-</td>
-<td align="center" width="50%">
-<strong>🕓 O que ainda não existe</strong><br/><br/>
-Clientes em saúde<br/>
-Casos e depoimentos<br/>
-Serviço em operação
-</td>
-</tr>
-</table>
-
-> [!NOTE]
-> Empresa em fase de fundação técnica. Não há clientes em saúde e não publico casos. Os projetos com organizações de saúde estão previstos para **2027**. Até lá, o trabalho é público: método, dados e limitações ficam neste GitHub.
+SQL, Python, Power BI, FHIR, cloud e outras tecnologias são ferramentas utilizadas para resolver problemas de dados, não o posicionamento em si.
 
 ---
 
 <h2 align="center">📡 O contexto que orienta os projetos</h2>
 
-> Não escolho projetos por tendência. Escolho por **obrigação técnica e regulatória já publicada** no Brasil.
+> Não escolho projetos apenas por tendência. Procuro entender os processos, os dados produzidos e as regras que precisam ser atendidas.
 
 | Referência | O que estabelece | Por que direciona o trabalho |
 |---|---|---|
-| **Padrão TISS / TUSS — ANS** | Padrão obrigatório de troca de informações na saúde suplementar | Define a regra contra a qual o dado de faturamento é validado |
-| **Decreto nº 12.560/2025** | Dispõe sobre a RNDS e as Plataformas SUS Digital, consolidando a rede como infraestrutura nacional de interoperabilidade | Interoperabilidade deixou de ser projeto e virou requisito |
-| **HL7 FHIR na RNDS** | Padrão adotado para a troca de informações em saúde com a rede | Define o vocabulário técnico a dominar |
-| **LGPD + agenda da ANPD** | Dados de saúde como dados sensíveis, com fiscalização priorizada | Qualidade e linhagem passam a exigir evidência, não só boa prática |
+| **Padrão TISS / TUSS — ANS** | Padrão de troca de informações na saúde suplementar | Define estruturas e terminologias que precisam ser compreendidas e validadas |
+| **Decreto nº 12.560/2025** | Dispõe sobre a RNDS e as Plataformas SUS Digital | Contextualiza a evolução da interoperabilidade em saúde |
+| **HL7 FHIR na RNDS** | Padrão utilizado para troca estruturada de informações em saúde | Direciona o estudo de interoperabilidade |
+| **LGPD + agenda da ANPD** | Dados de saúde como dados pessoais sensíveis | Reforça a necessidade de controle, rastreabilidade e proteção |
 
-**O que aprendo com isso:** o gargalo dos dados em saúde no Brasil raramente é volume. É **significado** — o mesmo paciente com identificadores diferentes, diagnóstico em texto livre, mapeamentos entre terminologias que ninguém documentou.
+**O que aprendo com isso:** o desafio dos dados em saúde não está apenas em analisar grandes volumes. É necessário compreender **significado, estrutura, qualidade, origem e contexto**.
 
 <p align="center">
-  <em>Estudo essas normas nas fontes oficiais e registro o que entendo — e o que ainda não entendo.</em>
+  <em>Estudo as referências, registro as decisões e documento também as limitações.</em>
 </p>
 
 ---
@@ -103,7 +88,7 @@ Serviço em operação
 <tr>
 <td align="center" width="50%">
 <strong>📏 Qualidade de Dados</strong><br/><br/>
-Completude, consistência, atualidade<br/>e causa-raiz operacional
+Completude, consistência, atualidade<br/>e investigação de causa-raiz
 </td>
 <td align="center" width="50%">
 <strong>🗂️ Governança & Linhagem</strong><br/><br/>
@@ -117,23 +102,23 @@ HL7 FHIR, RNDS, TISS/TUSS<br/>e terminologias clínicas
 </td>
 <td align="center" width="50%">
 <strong>📊 Análise & Visualização</strong><br/><br/>
-SQL, Python e Power BI aplicados<br/>a indicadores assistenciais
+SQL, Python e Power BI aplicados<br/>a dados e indicadores de saúde
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <strong>🛡️ LGPD em Saúde</strong><br/><br/>
-Dados sensíveis, bases legais<br/>e proteção por design
+Dados sensíveis, proteção<br/>e responsabilidade no uso dos dados
 </td>
 <td align="center" width="50%">
 <strong>🏥 Contexto Assistencial</strong><br/><br/>
-Base biomédica aplicada à leitura<br/>crítica do dado clínico
+Base biomédica aplicada à leitura<br/>crítica do dado de saúde
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <sub><em>Estudo em andamento. Não me apresento como especialista em nenhum destes temas.</em></sub>
+  <sub><em>Formação e desenvolvimento contínuos. Os projetos publicados demonstram o que foi efetivamente realizado.</em></sub>
 </p>
 
 ---
@@ -158,13 +143,13 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 <h3 align="center">🏥 Diagnóstico de Qualidade e Governança de Dados em Estabelecimentos de Saúde</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/fases%201--5-conclu%C3%ADdas-d4537e?style=flat-square" alt="Fases 1 a 5 concluídas">
-  <img src="https://img.shields.io/badge/fase%206-em%20andamento-ed93b1?style=flat-square" alt="Fase 6 em andamento">
+  <img src="https://img.shields.io/badge/fases%201--6-conclu%C3%ADdas-d4537e?style=flat-square" alt="Fases 1 a 6 concluídas">
+  <img src="https://img.shields.io/badge/fase%207-em%20andamento-ed93b1?style=flat-square" alt="Fase 7 em andamento">
   <img src="https://img.shields.io/badge/dados-p%C3%BAblicos%20CNES%2FDATASUS-f4c0d1?style=flat-square&labelColor=d4537e" alt="Dados públicos CNES/DATASUS">
 </p>
 
 > **A pergunta:** quanto do cadastro está incompleto, inconsistente ou desatualizado, onde esses problemas aparecem, e quais controles reduzem o risco de propagação?
->
+
 > **Recorte:** Estado de São Paulo, competência de novembro de 2025 — **110.362 estabelecimentos**. Consulta em BigQuery sobre o dataset público `br_ms_cnes`.
 
 ### Achados documentados
@@ -180,7 +165,7 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 ### Correção de método registrada
 
 > A métrica de incompletude foi corrigida de 54,69% para **54,70%** quando a mesma análise foi reproduzida em Python e revelou 5 registros com string vazia que o SQL não havia testado. A correção não alterou as faixas nem os grupos extremos, mas reordenou posições no ranking municipal — o que expôs um `ORDER BY` sem critério de desempate, também corrigido.
->
+
 > Refazer a mesma análise em outra ferramenta não é retrabalho. É controle.
 
 ### Entregas
@@ -193,7 +178,7 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 | 🧬 **Proveniência** | Investigação da origem de código com semântica não confirmada, via PySUS em ambiente isolado |
 | 📊 **Dashboard** | Completude por campo, atualidade cadastral e distribuição regional em Power BI |
 | 📚 **Governança** | **9 regras** de governança, cada uma ligada a um problema efetivamente encontrado |
-| 🔗 **FHIR** *(em andamento)* | Mapeamento para `Organization` e `Location`, com validação formal dos recursos |
+| 🔗 **FHIR** | Mapeamento e validação realizados como parte da Fase 6 |
 
 <p align="center">
 <strong>Competências aplicadas:</strong> SQL · Python · BigQuery · Power BI · Qualidade de dados · Linhagem · Governança · Docker · Git
@@ -202,7 +187,32 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 > [!NOTE]
 > Projeto de estudo construído com **dados públicos**. Não representa implantação em instituição de saúde. Os números valem para o recorte declarado.
 
-<p align="center"><em>🌱 Método, queries, decisões e limitações no repositório.</em></p>
+<p align="center"><em>🌱 Método, queries, decisões, evidências e limitações documentados no repositório.</em></p>
+
+---
+
+<h2 align="center">🗺️ Status do projeto</h2>
+
+<table align="center">
+<tr>
+<td align="center"><strong>Fases 1–6</strong><br/><br/>✅ Concluídas</td>
+<td align="center"><strong>Fase 7</strong><br/><br/>🔄 Em andamento</td>
+</tr>
+</table>
+
+### Fase 7 — Consolidação e apresentação final do portfólio
+
+> A etapa atual transforma o trabalho técnico desenvolvido nas fases anteriores em um **projeto de portfólio completo, organizado, documentado e apresentável profissionalmente**.
+
+| Etapa | Status |
+|---|---|
+| 🔬 Diagnóstico técnico | ✅ Concluído |
+| 📊 Análises e indicadores | ✅ Concluído |
+| 🧬 Governança e linhagem | ✅ Concluído |
+| 🔗 FHIR / interoperabilidade | ✅ Concluído |
+| 📚 Artefatos técnicos da Fase 6 | ✅ Concluídos |
+| 🧩 Consolidação do projeto | 🔄 Fase 7 |
+| 📑 Apresentação final do portfólio | 🔄 Fase 7 |
 
 ---
 
@@ -211,7 +221,7 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 <table align="center">
 <tr>
 <td align="center"><strong>Agora</strong></td>
-<td>Concluir a Fase 6 — mapeamento e validação FHIR do diagnóstico CNES</td>
+<td>Consolidação e apresentação final do portfólio do projeto CNES</td>
 </tr>
 <tr>
 <td align="center"><strong>A seguir</strong></td>
@@ -223,7 +233,7 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 </tr>
 <tr>
 <td align="center"><strong>Formação</strong></td>
-<td>Pós-graduação em Saúde Digital / Informática em Saúde, a partir de jan/2027</td>
+<td>Pós-graduação em Saúde Digital / Informática em Saúde</td>
 </tr>
 </table>
 
@@ -233,12 +243,12 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 
 <table align="center">
 <tr>
-<td align="center"><strong>🧪 Problemas de dados</strong><br/><sub>Descreva o problema — converso sobre ele, sem proposta</sub></td>
-<td align="center"><strong>📖 Método e projeto</strong><br/><sub>Queries, decisões e limitações abertas neste GitHub</sub></td>
+<td align="center"><strong>🧪 Problemas de dados</strong><br/><sub>Problemas relacionados a qualidade, organização e análise de dados</sub></td>
+<td align="center"><strong>📖 Método e projeto</strong><br/><sub>Queries, decisões, documentação e evidências abertas neste GitHub</sub></td>
 </tr>
 <tr>
 <td align="center"><strong>🤝 Parceria técnica</strong><br/><sub>Laboratórios, clínicas, healthtechs e software de saúde</sub></td>
-<td align="center"><strong>📅 Projetos</strong><br/><sub>Contratos com organizações de saúde a partir de 2027</sub></td>
+<td align="center"><strong>📅 Projetos</strong><br/><sub>Projetos e oportunidades em Dados em Saúde</sub></td>
 </tr>
 </table>
 
@@ -273,10 +283,10 @@ Base biomédica aplicada à leitura<br/>crítica do dado clínico
 
 <div align="center">
 
-### 🌸 Nexis — Dados em Saúde
+### 🌸 Carla Rodrigues
 
-_Da geração do dado clínico à governança, à análise e ao apoio à decisão._
+_Experiência em tecnologia, formação em saúde e desenvolvimento em dados._
 
-**Sempre aprendendo. Nunca especialista.** ✨
+**Em formação. Construindo evidências. Evoluindo com método.** ✨
 
 </div>
