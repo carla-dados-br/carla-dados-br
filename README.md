@@ -138,13 +138,13 @@ Base biomédica aplicada à leitura<br/>crítica do dado de saúde
 
 ---
 
-<h2 align="center">🔬 Projeto em execução</h2>
+<h2 align="center">✅ Projeto concluído</h2>
 
 <h3 align="center">🏥 Diagnóstico de Qualidade e Governança de Dados em Estabelecimentos de Saúde</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/fases%201--6-conclu%C3%ADdas-d4537e?style=flat-square" alt="Fases 1 a 6 concluídas">
-  <img src="https://img.shields.io/badge/fase%207-em%20andamento-ed93b1?style=flat-square" alt="Fase 7 em andamento">
+  <a href="https://github.com/carla-dados-br/diagnostico-qualidade-cnes"><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-d4537e?style=flat-square" alt="Status: concluído"></a>
+  <img src="https://img.shields.io/badge/fases-7%20de%207%20conclu%C3%ADdas-ed93b1?style=flat-square" alt="7 de 7 fases concluídas">
   <img src="https://img.shields.io/badge/dados-p%C3%BAblicos%20CNES%2FDATASUS-f4c0d1?style=flat-square&labelColor=d4537e" alt="Dados públicos CNES/DATASUS">
 </p>
 
@@ -157,31 +157,39 @@ Base biomédica aplicada à leitura<br/>crítica do dado de saúde
 | Achado | O que foi encontrado | Por que importa |
 |---|---|---|
 | **Ausência disfarçada** | `id_regiao_saude` com `NULL`, texto `"nan"` e string vazia. Checagem só por `IS NULL` retornava 0%. Métrica real: **54,70%** | A forma física da ausência precisa ser investigada antes de definir a métrica |
-| **Valor sentinela** | `ano_competencia_final = 9999` e `mes_competencia_final = 99` em **6.072 de 6.764 habilitações (89,76%)** | Sem excluir o sentinela, a comparação temporal produz resultado falso |
-| **Divergência entre tabelas** | **768 estabelecimentos** com `leito.quantidade_total` sempre maior que `habilitacao.quantidade_leitos` | Divergência sistemática indica diferença de definição, não erro de digitação |
-| **Atualidade cadastral** | **20,72%** fora da janela de 24 meses anteriores à competência | A janela é convenção metodológica do projeto, não regra normativa do DATASUS |
-| **Proveniência x semântica** | `tipo_unidade = 16`: 37 de 38 códigos reconciliados; a origem do código foi confirmada, o significado não | Código sem semântica confirmada não pode virar conceito FHIR validado |
+| **Valor sentinela** | Ano `9999` como competência final em **6.072 de 6.764 habilitações (89,77%)** | Sem isolar o sentinela, a comparação temporal produz resultado falso |
+| **Possível dado pessoal** | Até **34.318 de 98.559** valores de `cpf_cnpj` compatíveis com CPF | Risco de LGPD em base pública: o projeto publica só contagens agregadas |
+| **UTI × habilitação** | Com todos os leitos, 553 de 1.103 combinações sem habilitação; com leitos SUS, **0 de 550** | A regra oficial (Portarias SAES/MS nº 2.902/2025 e nº 3.511/2025) vale para leitos SUS: antes de medir conformidade, é preciso definir a população da regra |
+| **Tempo sem alteração** | **20,72%** sem alteração cadastral há mais de 24 meses | O campo mede a última alteração, não a transmissão exigida pela Portaria SAS/MS nº 118/2014 |
+| **Proveniência × semântica** | `tipo_unidade = 16`: 37 de 38 códigos reconciliados; o código está presente na origem consultada, mas sem significado oficial | Código sem semântica confirmada não pode virar conceito FHIR validado |
 
-### Correção de método registrada
+### Correções de método registradas
 
-> A métrica de incompletude foi corrigida de 54,69% para **54,70%** quando a mesma análise foi reproduzida em Python e revelou 5 registros com string vazia que o SQL não havia testado. A correção não alterou as faixas nem os grupos extremos, mas reordenou posições no ranking municipal — o que expôs um `ORDER BY` sem critério de desempate, também corrigido.
+> A métrica de incompletude foi corrigida de 54,69% para **54,70%** quando a mesma análise foi reproduzida em Python e revelou 5 registros com string vazia que o SQL não havia testado.
 
-> Refazer a mesma análise em outra ferramenta não é retrabalho. É controle.
+> Na auditoria final, feita com apoio de IA, três regras foram revistas e corrigidas, com nota datada no histórico: a comparação entre leitos e habilitações passou a usar só habilitações que têm leitos (de 768 de 768 com divergência para 1 caso em 304), a regra de UTI passou a usar leitos SUS e o indicador de atualidade foi reinterpretado à luz da norma oficial.
+
+> Refazer a mesma análise em outra ferramenta, ou revisar a própria regra, não é retrabalho. É controle.
 
 ### Entregas
 
 | Etapa | Entrega |
 |---|---|
-| 🔎 **Exploração e recorte** | 13 consultas SQL documentadas, com decisão de recorte justificada |
-| 🧹 **Tratamento** | Limpeza e reprodução dos indicadores em Python |
-| 📏 **Indicadores** | Completude, consistência, atualidade e unicidade, cada um com regra explícita e critério de reprovação |
-| 🧬 **Proveniência** | Investigação da origem de código com semântica não confirmada, via PySUS em ambiente isolado |
+| 🔎 **Exploração e recorte** | 19 consultas SQL documentadas, com decisão de recorte justificada e registro de cada consulta |
+| 🧹 **Tratamento** | Limpeza e reprodução dos indicadores de completude e unicidade em Python |
+| 📏 **Indicadores** | Completude, consistência, atualidade e unicidade, cada um com regra explícita |
+| 🧬 **Proveniência** | Investigação da origem de código sem semântica confirmada, via PySUS em ambiente isolado |
 | 📊 **Dashboard** | Completude por campo, atualidade cadastral e distribuição regional em Power BI |
-| 📚 **Governança** | **9 regras** de governança, cada uma ligada a um problema efetivamente encontrado |
-| 🔗 **FHIR** | Mapeamento e validação realizados como parte da Fase 6 |
+| 📚 **Governança** | **10 regras** de governança, cada uma ligada a um problema efetivamente encontrado |
+| 🔗 **FHIR R4** | Mapeamento CNES → FHIR, conversor com testes e **5 recursos validados** (0 erros) |
+| 📑 **Resultados** | Documento com resumo executivo, **10 achados** e **11 recomendações** |
 
 <p align="center">
-<strong>Competências aplicadas:</strong> SQL · Python · BigQuery · Power BI · Qualidade de dados · Linhagem · Governança · Docker · Git
+<strong>Competências aplicadas:</strong> SQL · Python · BigQuery · Power BI · Qualidade de dados · Governança · LGPD · FHIR R4 · Docker · Git
+</p>
+
+<p align="center">
+  <a href="https://github.com/carla-dados-br/diagnostico-qualidade-cnes"><strong>👉 Ver o projeto completo</strong></a>
 </p>
 
 > [!NOTE]
@@ -191,37 +199,12 @@ Base biomédica aplicada à leitura<br/>crítica do dado de saúde
 
 ---
 
-<h2 align="center">🗺️ Status do projeto</h2>
-
-<table align="center">
-<tr>
-<td align="center"><strong>Fases 1–6</strong><br/><br/>✅ Concluídas</td>
-<td align="center"><strong>Fase 7</strong><br/><br/>🔄 Em andamento</td>
-</tr>
-</table>
-
-### Fase 7 — Consolidação e apresentação final do portfólio
-
-> A etapa atual transforma o trabalho técnico desenvolvido nas fases anteriores em um **projeto de portfólio completo, organizado, documentado e apresentável profissionalmente**.
-
-| Etapa | Status |
-|---|---|
-| 🔬 Diagnóstico técnico | ✅ Concluído |
-| 📊 Análises e indicadores | ✅ Concluído |
-| 🧬 Governança e linhagem | ✅ Concluído |
-| 🔗 FHIR / interoperabilidade | ✅ Concluído |
-| 📚 Artefatos técnicos da Fase 6 | ✅ Concluídos |
-| 🧩 Consolidação do projeto | 🔄 Fase 7 |
-| 📑 Apresentação final do portfólio | 🔄 Fase 7 |
-
----
-
 <h2 align="center">🗺️ Próximos passos</h2>
 
 <table align="center">
 <tr>
-<td align="center"><strong>Agora</strong></td>
-<td>Consolidação e apresentação final do portfólio do projeto CNES</td>
+<td align="center"><strong>Concluído</strong></td>
+<td>Diagnóstico de qualidade e governança do cadastro CNES (São Paulo, nov/2025)</td>
 </tr>
 <tr>
 <td align="center"><strong>A seguir</strong></td>
